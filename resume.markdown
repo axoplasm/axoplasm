@@ -16,7 +16,7 @@ Fancy.
 Employment
 ----------
 
-* __Generalist, Axoplasm__   
+* ####Generalist, Axoplasm
 The Internet   
 1999 – now   
 
