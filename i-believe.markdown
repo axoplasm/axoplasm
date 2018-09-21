@@ -37,7 +37,7 @@ Religion/Sprituality
 * Always the same river, never the same water.
 * God “exists” in the same way money “exists.”
 * I was never not an atheist like this. I never felt an absence of anything (a “God shaped hole”); it’s just that God is simply unnecessary to my understanding of the world. The (non)presence of God is irrelevant to me.
-        * More accurately: of all the qualities of God (omnipotence, omnibenevolence, anthropomorphism, etc.) which we might want to discuss, “existence” is the least salient.
+	* More accurately: of all the qualities of God (omnipotence, omnibenevolence, anthropomorphism, etc.) which we might want to discuss, “existence” is the least salient.
 
 Human Nature
 ------------
