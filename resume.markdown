@@ -98,7 +98,7 @@ Redlands, CA, USA
 1998 – 1999
 
 ### Field Director/Staff Archaeologist    
-__Ethnoscience__
+__Ethnoscience__    
 Billings, MT, USA   
 1997
 
