@@ -47,63 +47,63 @@ Web application designer, developer, & product owner
 Employment
 ----------
 
-### Scrubjay
-Principal    
+### Principal    
+__Scrubjay__    
 Portland, OR, USA    
 2017 – Present
 
 
-### Axoplasm
-Freelance Designer/Developer    
+### Freelance Designer/Developer    
+__Axoplasm__
 1999 – 2017   
 
-### OpenSourcery
-Design Director    
+### Design Director    
+__OpenSourcery__    
 Portland, OR, USA   
 2013 – 2014
 
-### Mercy Corps
-Senior Designer    
+### Senior Designer    
+__Mercy Corps__    
 Portland, OR, USA   
 2007 – 2013   
 
-### Ports 1961
-Senior Web Architect    
+### Senior Web Architect    
+__Ports 1961__
 Xiamen, China   
 2007   
 
 ### ID Branding
-$enior User Experience Designer    
+__Senior User Experience Designer__   
 Portland, OR, USA   
 2005 – 2006   
 
-### Curiosity
-Art Director    
+### Art Director    
+__Curiosity__    
 Portland, OR, USA   
 2002 – 2005   
 
-### CyberSight/Ninedots
-Designer/Developer    
+### Designer/Developer    
+__CyberSight/Ninedots__    
 Portland, OR, USA   
 2000 – 2001   
 
-### Headbone Interactive
-Designer    
+### Designer    
+__Headbone Interactive__    
 Seattle, WA, USA   
 1999 – 2000   
 
-### Statistical Research, Inc.
-Staff Archaeologist     
+### Staff Archaeologist     
+__Statistical Research, Inc.__    
 Redlands, CA, USA   
 1998 – 1999
 
-### Ethnoscience
-Field Director/Staff Archaeologist    
+### Field Director/Staff Archaeologist    
+__Ethnoscience__
 Billings, MT, USA   
 1997
 
-### Oregon State Museum of Anthropology
-Museum Collections Assistant/Graduate Teaching Fellow    
+### Museum Collections Assistant/Graduate Teaching Fellow    
+__Oregon State Museum of Anthropology__    
 Eugene, OR, USA   
 1995 – 1997
 
