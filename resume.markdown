@@ -72,13 +72,13 @@ __Ports 1961__
 Xiamen, China   
 2007   
 
-### ID Branding
-__Senior User Experience Designer__   
+### Senior User Experience Designer
+__ID Branding__    
 Portland, OR, USA   
 2005 – 2006   
 
-### Art Director    
-__Curiosity__    
+### Curiosity    
+__Art Director__
 Portland, OR, USA   
 2002 – 2005   
 
