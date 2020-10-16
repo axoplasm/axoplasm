@@ -78,7 +78,7 @@ Portland, OR, USA
 2005 – 2006   
 
 ### Curiosity    
-__Art Director__
+__Art Director__    
 Portland, OR, USA   
 2002 – 2005   
 
