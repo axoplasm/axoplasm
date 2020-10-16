@@ -54,7 +54,7 @@ Portland, OR, USA
 
 
 ### Freelance Designer/Developer    
-__Axoplasm__
+__Axoplasm__    
 1999 – 2017   
 
 ### Design Director    
