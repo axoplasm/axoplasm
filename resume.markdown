@@ -48,7 +48,7 @@ Employment
 ----------
 
 | When        | What                                                  | Which                               | Where             |
-|-------------+-------------------------------------------------------+-------------------------------------+-------------------|
+|-------------|-------------------------------------------------------|-------------------------------------|-------------------|
 | 2017 – Now  | Principal                                             | Scrubjay                            | Portland, OR, USA |
 | 1999 – 2017 | Freelance Designer/Developer                          | Axoplasm                            | The Internet      |
 | 2013 – 2014 | Design Director                                       | OpenSourcery                        | Portland, OR, USA |
@@ -61,7 +61,7 @@ Employment
 | 1998 – 1999 | Staff Archaeologist                                   | Statistical Research, Inc.          | Redlands, CA, USA |
 | 1997        | Field Director/Staff Archaeologist                    | Ethnoscience                        | Billings, MT, USA |
 | 1995 – 1997 | Museum Collections Assistant/Graduate Teaching Fellow | Oregon State Museum of Anthropology | Eugene, OR, USA   |
-|-------------+-------------------------------------------------------+-------------------------------------+-------------------|
+|-------------|-------------------------------------------------------|-------------------------------------|-------------------|
 
 
 Education
