@@ -47,20 +47,20 @@ Fancy
 Employment
 ----------
 
-| When        | What                                                  | Which                               | Where             |
-|-------------|-------------------------------------------------------|-------------------------------------|-------------------|
-| 2017–Now  | Principal                                             | Scrubjay                            | Portland, OR, USA |
-| 1999–2017 | Freelance Designer/Developer                          | Axoplasm                            | The Internet      |
-| 2013–2014 | Design Director                                       | OpenSourcery                        | Portland, OR, USA |
-| 2007–2013 | Senior Designer                                       | Mercy Corps                         | Portland, OR, USA |
-| 2007        | Senior Web Architect                                  | Ports 1961                          | Xiamen, China     |
-| 2005–2006 | Senior User Experience Designer                       | ID Branding                         | Portland, OR, USA |
-| 2002–2005 | Art Director                                          | Curiosity                           | Portland, OR, USA |
-| 2000–2001 | Designer/Developer                                    | CyberSight/Ninedots                 | Portland, OR, USA |
-| 1999–2000 | Designer                                              | Headbone Interactive                | Seattle, WA, USA  |
-| 1998–1999 | Staff Archaeologist                                   | Statistical Research, Inc.          | Redlands, CA, USA |
-| 1997        | Field Director/Staff Archaeologist                    | Ethnoscience                        | Billings, MT, USA |
-| 1995–1997 | Museum Collections Assistant/Graduate Teaching Fellow | Oregon State Museum of Anthropology | Eugene, OR, USA   |
+| When          | What                                                    | Which                                 | Where               |
+| ------------- | ------------------------------------------------------- | ------------------------------------- | ------------------- |
+| 2017 – Now    | Principal                                               | Scrubjay                              | Portland, OR, USA   |
+| 1999 – 2017   | Freelance Designer / Developer                          | Axoplasm                              | The Internet        |
+| 2013 – 2014   | Design Director                                         | OpenSourcery                          | Portland, OR, USA   |
+| 2007 – 2013   | Senior Designer                                         | Mercy Corps                           | Portland, OR, USA   |
+| 2007          | Senior Web Architect                                    | Ports 1961                            | Xiamen, China       |
+| 2005 – 2006   | Senior User Experience Designer                         | ID Branding                           | Portland, OR, USA   |
+| 2002 – 2005   | Art Director                                            | Curiosity                             | Portland, OR, USA   |
+| 2000 – 2001   | Designer / Developer                                    | CyberSight/Ninedots                   | Portland, OR, USA   |
+| 1999 – 2000   | Designer                                                | Headbone Interactive                  | Seattle, WA, USA    |
+| 1998 – 1999   | Staff Archaeologist                                     | Statistical Research, Inc.            | Redlands, CA, USA   |
+| 1997          | Field Director / Staff Archaeologist                    | Ethnoscience                          | Billings, MT, USA   |
+| 1995 – 1997   | Museum Collections Assistant / Graduate Teaching Fellow | Oregon State Museum of Anthropology   | Eugene, OR, USA     |
 
 
 Education
