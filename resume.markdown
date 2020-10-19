@@ -47,65 +47,21 @@ Web application designer, developer, & product owner
 Employment
 ----------
 
-### Principal    
-__Scrubjay__    
-Portland, OR, USA    
-2017 – Present
-
-
-### Freelance Designer/Developer    
-__Axoplasm__    
-1999 – 2017   
-
-### Design Director    
-__OpenSourcery__    
-Portland, OR, USA   
-2013 – 2014
-
-### Senior Designer    
-__Mercy Corps__    
-Portland, OR, USA   
-2007 – 2013   
-
-### Senior Web Architect    
-__Ports 1961__
-Xiamen, China   
-2007   
-
-### Senior User Experience Designer
-__ID Branding__    
-Portland, OR, USA   
-2005 – 2006   
-
-### Curiosity    
-__Art Director__    
-Portland, OR, USA   
-2002 – 2005   
-
-### Designer/Developer    
-__CyberSight/Ninedots__    
-Portland, OR, USA   
-2000 – 2001   
-
-### Designer    
-__Headbone Interactive__    
-Seattle, WA, USA   
-1999 – 2000   
-
-### Staff Archaeologist     
-__Statistical Research, Inc.__    
-Redlands, CA, USA   
-1998 – 1999
-
-### Field Director/Staff Archaeologist    
-__Ethnoscience__    
-Billings, MT, USA   
-1997
-
-### Museum Collections Assistant/Graduate Teaching Fellow    
-__Oregon State Museum of Anthropology__    
-Eugene, OR, USA   
-1995 – 1997
+| When        | What                                                  | Which                               | Where             |
+|-------------+-------------------------------------------------------+-------------------------------------+-------------------|
+| 2017 – Now  | Principal                                             | Scrubjay                            | Portland, OR, USA |
+| 1999 – 2017 | Freelance Designer/Developer                          | Axoplasm                            | The Internet      |
+| 2013 – 2014 | Design Director                                       | OpenSourcery                        | Portland, OR, USA |
+| 2007 – 2013 | Senior Designer                                       | Mercy Corps                         | Portland, OR, USA |
+| 2007        | Senior Web Architect                                  | Ports 1961                          | Xiamen, China     |
+| 2005 – 2006 | Senior User Experience Designer                       | ID Branding                         | Portland, OR, USA |
+| 2002 – 2005 | Art Director                                          | Curiosity                           | Portland, OR, USA |
+| 2000 – 2001 | Designer/Developer                                    | CyberSight/Ninedots                 | Portland, OR, USA |
+| 1999 – 2000 | Designer                                              | Headbone Interactive                | Seattle, WA, USA  |
+| 1998 – 1999 | Staff Archaeologist                                   | Statistical Research, Inc.          | Redlands, CA, USA |
+| 1997        | Field Director/Staff Archaeologist                    | Ethnoscience                        | Billings, MT, USA |
+| 1995 – 1997 | Museum Collections Assistant/Graduate Teaching Fellow | Oregon State Museum of Anthropology | Eugene, OR, USA   |
+|-------------+-------------------------------------------------------+-------------------------------------+-------------------|
 
 
 Education
