@@ -11,32 +11,32 @@ Web application designer, developer, & product owner
 
 ### Practices
 
-* Product design and ownership
-* User experience design
-* Visual design
-* Content strategy
-* Web application development
-* Content Management System development with Django, Drupal, and static site generators
+Product design and ownership,
+User experience design,
+Visual design,
+Content strategy,
+Web application development,
+Content Management System development with Django, Drupal, and static site generators
 
 
 ### Clientele
 
-* Nonprofits
-* Fundraising consultancies
-* Socially-responsible businesses
-* Interactive agencies
+Nonprofits,
+Fundraising consultancies,
+Socially-responsible businesses,
+Interactive agencies
 
 
 ### Habits
 
-* Orthogonality
-* Iteration
-* Pragmatism
-* Parsimony
-* (Re)Usability
-* Textuality
-* Readability
-* Social responsibility
+Orthogonality,
+Iteration,
+Pragmatism,
+Parsimony,
+(Re)Usability,
+Textuality,
+Readability,
+Social responsibility
 
 
 ### Not
@@ -61,7 +61,6 @@ Employment
 | 1998 – 1999 | Staff Archaeologist                                   | Statistical Research, Inc.          | Redlands, CA, USA |
 | 1997        | Field Director/Staff Archaeologist                    | Ethnoscience                        | Billings, MT, USA |
 | 1995 – 1997 | Museum Collections Assistant/Graduate Teaching Fellow | Oregon State Museum of Anthropology | Eugene, OR, USA   |
-|-------------|-------------------------------------------------------|-------------------------------------|-------------------|
 
 
 Education
