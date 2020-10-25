@@ -1,4 +1,4 @@
-Axoplasm is Paul Souders
+axoplasm is Paul Souders
 ========================
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
