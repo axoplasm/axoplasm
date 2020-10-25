@@ -2,6 +2,7 @@ Axoplasm is Paul Souders
 ========================
 I have been building web things since [1996](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
+
 My Internet homes
 -----------------
 * [Personal website](https://axoplasm.com)
@@ -30,4 +31,10 @@ Current customer projects
 * [MicroMentor](https://www.micromentor.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 
+
+My professional interests
+-------------------------
+* [Imagining by building](https://axoplasm.com/web-log/imagining-and-building/)
+* [Doing good by doing well](https://axoplasm.com/web-log/right-and-wrong/)
+* [Doing well by doing good](https://axoplasm.com/web-log/its-ok-do-well-while-doing-good/)
 
