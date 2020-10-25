@@ -24,7 +24,7 @@ Current customer projects
 
 My professional interests
 -------------------------
-* [Imagining by building](https://axoplasm.com/web-log/imagining-and-building/)
+* [Designing by building](https://axoplasm.com/web-log/imagining-and-building/)
 * [Doing good by doing well](https://axoplasm.com/web-log/right-and-wrong/)
 * [Doing well by doing good](https://axoplasm.com/web-log/its-ok-do-well-while-doing-good/)
 
