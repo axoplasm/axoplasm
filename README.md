@@ -1,6 +1,6 @@
 Axoplasm is Paul Souders
 ========================
-
+I have been building web things since [1996](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
 My Internet homes
 -----------------
@@ -23,8 +23,8 @@ Where I am the product
 * [Facebook](https://www.facebook.com/axoplasm)
 
 
-My current customer projects
-----------------------------
+Current customer projects
+-------------------------
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [MicroMentor](https://www.micromentor.org)
