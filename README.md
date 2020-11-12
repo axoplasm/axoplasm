@@ -4,14 +4,14 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 
 
 * [Personal website](https://axoplasm.com)
-* [My LLC](https://scrubjay.works/)
+* [LLC](https://scrubjay.works/)
 * [Can You See Mt. Hood from Council Crest?](https://canyouseemthoodfromcouncilcrest.com/)
-* [OBRA](https://obra.org/people/61444)
-* [Strava](https://www.strava.com/athletes/56063)
-* [GitHub](https://github.com/axoplasm)
-* [LinkedIn](http://linkedin.com/in/axoplasm/)
-* [Twitter](https://twitter.com/axoplasm)
-* [Facebook](https://www.facebook.com/axoplasm)
+* Bike racing results on [OBRA](https://obra.org/people/61444)
+* Snail trails on [Strava](https://www.strava.com/athletes/56063)
+* Repos on [GitHub](https://github.com/axoplasm)
+* CV on [LinkedIn](http://linkedin.com/in/axoplasm/)
+* Brain burps on [Twitter](https://twitter.com/axoplasm)
+* Pictures of kids and dogs on[Facebook](https://www.facebook.com/axoplasm)
 
 
 Current customer projects
