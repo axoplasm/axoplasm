@@ -13,12 +13,13 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 * 📸 Pictures of kids and dogs on [Facebook](https://www.facebook.com/axoplasm)
 * 🗻[Can You See Mt. Hood from Council Crest?](https://canyouseemthoodfromcouncilcrest.com/)
 
-Current customer projects
--------------------------
+Current & extremely recent customer projects
+--------------------------------------------
+* [MicroMentor](https://www.micromentor.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
-* [MicroMentor](https://www.micromentor.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
+* [TolaActivity](https://tola-activity.mercycorps.org)
 
 
 Professional interests
