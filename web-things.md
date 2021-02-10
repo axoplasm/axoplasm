@@ -1,5 +1,7 @@
 If my web career were a person, it would be able to legally buy beer in the United States. Here’s a *definitely incomplete* list of all the companies and organizations whose web properites I have been paid to touch (in code, pixels, concept or words), in approximately chronological order. 
 
+__I do not represent the work below as “my” work.__ I did *something*, for each of these clients: UX, email, development, branding, app design...but that *something* might or might not be at the URLs below, which are just for reference. Where I can point to something specific (like a donation page), or to a capture in the Wayback Machine — that *might* be “my” work.
+
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
 
@@ -87,28 +89,33 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 * Oregon Metro: Metro News
 * Multnomah County
 * Integrated Arts Academy
-* Helen Keller International
-* Audubon Society
-* Saturday Academy
-* Best Buddies
-* Navex Global
-* The Intertwine/Daycation
-* CBfish.org
-* Columbia Habitat Monitoring Program
-* Acumen
+* [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
+* Helen Kller Morbidity Management and Disability Prevention (MMDP) Project
+* [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
+* [Audubon Gift Center](https://gifts.audubon.org)
+* [Saturday Academy](https://www.saturdayacademy.org)
+* [Best Buddies](https://www.bestbuddies.org/donate/)
+* [Navex Global](https://www.navexglobal.com)
+* [The Intertwine](https://www.theintertwine.org)
+* [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
+* [CBfish.org](//cbfish.org)
+* [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
+* [Acumen](https://acumen.org)
 * Burlington Friends of Education
 * Oregon Cherry Growers, Inc.
-* Stop Freaking Out
-* Early Learning Multnomah
-* State and Metro
-* Miradi
-* Scrubjay Works
-* Comprehensive Center Network
-* Commonwealth Real Estate Services
-* XPLANE
-* March of Dimes
-* Northwest PowerPool
-* Fat Pencil Studio
-* CS For All Teachers
-* Mercy Corps TolaActivity
-* MicroMentor
+* [Stop Freaking Out](https://stopfreakingout.org)
+* [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
+* [State and Metro](http://www.stateandmetro.com)
+* [Miradi](https://www.miradi.org)
+* [MiradiShare](https://www.miradishare.org/ux/home)
+* [Scrubjay Works](https://scrubjay.works)
+* [Comprehensive Center Network](https://compcenternetwork.org)
+* [Commonwealth Real Estate Services](https://cwres.com)
+* [Seminole Estates](http://www.seminoleestates.com)
+* [XPLANE](https://xplane.com)
+* [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
+* [Northwest PowerPool](https://www.nwpp.org)
+* [Fat Pencil Studio](//fatpencilstudio.com/)
+* [CS For All Teachers](//www.csforallteachers.org)
+* Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+* [MicroMentor](//www.micromentor.org)
