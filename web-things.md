@@ -5,15 +5,15 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
 
-* Ecoartspace
+* [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 * Tektronix
-* Archaeological Investigations Northwest
-* Headbone Interactive
+* [Archaeological Investigations Northwest](https://web.archive.org/web/19991230124111/http://www.ainw.com/)
+* [Headbone Interactive](https://web.archive.org/web/20000301003311/http://www.headbone.com/)
 * Discovery Channel Kids
 * Fleet Bank Kids
 * General Mills (Froot Loops)
 * Hanlon Brown Design
-* CyberSight
+* CyberSight/Nine Dots
 * Quaker Oats (MediaNet)
 * Quaker Oats (Oatmeal.com)
 * Quaker Oats (Cap’n Crunch)
