@@ -62,7 +62,6 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Cognitive Atlas
 1. Mindful Parenting PDX
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
-1. Can You See Mt. Hood from Council Crest?
 1. Exemplars Library
 1. Exemplars.com
 1. Seattle Goodwill
