@@ -20,25 +20,25 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Dole Foods (Five a Day)
 1. Visa
 1. Northwest Airlines
-1. NW Natural
+1. [NW Natural](https://web.archive.org/web/20020802001016/http://www.nwnatural.com/home/home.asp)
 1. Techtracker
 1. VersionTracker
 1. MacFixit
-1. 800.com
-1. Portland General Electric
-1. PGE TownPartner
+1. [800.com](https://web.archive.org/web/20011201072334/http://www.800.com/)
+1. [Portland General Electric](https://web.archive.org/web/20020120142310/http://portlandgeneral.com/)
+1. [PGE TownPartner](https://web.archive.org/web/20020326174000/http://townpartner.com/)
 1. Flashback Games
 1. Arrondi
-1. Curiosity Group
+1. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
 1. HP (Crafting)
 1. HP (IT Network)
 1. HP (TV)
 1. HP (LightScribe)
 1. The Smaller Things
-1. Chalkboard Project
+1. [Chalkboard Project](https://web.archive.org/web/20050208103334/http://www.chalkboardproject.org/)
 1. Oregon Lottery
-1. StyleMetrics
+1. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
 1. PolyServe
 1. Intel (Brand Center)
@@ -56,11 +56,11 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mercy Corps One Table
 1. Mercy Corps Action Center
 1. Mercy Corps MPower
-1. Sitka Technology
+1. [Sitka Technology](https://mindfulparentingpdx.org)
 1. Frederick’s of Hollywood
-1. Premarriage Awareness Inventory
-1. Cognitive Atlas
-1. Mindful Parenting PDX
+1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
+1. [Cognitive Atlas](https://cognitiveatlas.org)
+1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
 1. Exemplars Library
 1. Exemplars.com
@@ -85,7 +85,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. CRS University
 1. CRS Education
 1. Breast Cancer Research Foundation
-1. Oregon Metro: Metro News
+1. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
 1. Multnomah County
 1. Integrated Arts Academy
 1. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
@@ -118,4 +118,5 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [CS For All Teachers](//www.csforallteachers.org)
 1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 1. [MicroMentor](//www.micromentor.org)
+2. [PDX Assist](https://pdxassist.com)
 
