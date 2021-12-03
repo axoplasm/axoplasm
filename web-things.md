@@ -51,7 +51,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mercy Corps
 1. The Film Connection
 1. Global Citizen Corps
-1. MicroMentor
+1. [MicroMentor](https://micromentor.org)
 1. Global Envision
 1. Mercy Corps One Table
 1. Mercy Corps Action Center
@@ -75,48 +75,50 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mentor Graphics: System Vision
 1. Princeton Public Library
 1. Southwest Regional Surgery Center
-1. United Way of the Columbia Willamette
+1. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
 1. Vermont Public Radio
 1. VISTA Campus
 1. Catholic Relief Services (CRS) Monthly Donation
 1. CRS Savings Groups Dashboard
 1. CRS Faith Acts
-1. CRS University
+1. [CRS University](https://university.crs.org)
 1. CRS Education
-1. Breast Cancer Research Foundation
-1. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
-1. Multnomah County
-1. Integrated Arts Academy
-1. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
-1. Helen Keller Morbidity Management and Disability Prevention (MMDP) Project
-1. [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
-1. [Audubon Gift Center](https://gifts.audubon.org)
-1. [Saturday Academy](https://www.saturdayacademy.org)
-1. [Best Buddies](https://www.bestbuddies.org/donate/)
-1. [Navex Global](https://www.navexglobal.com)
-1. [The Intertwine](https://www.theintertwine.org)
-1. [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
-1. [CBfish.org](//cbfish.org)
-1. [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
-1. [Acumen](https://acumen.org)
-1. Burlington Friends of Education
-1. Oregon Cherry Growers, Inc.
-1. [Stop Freaking Out](https://stopfreakingout.org)
-1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
-1. [State and Metro](http://www.stateandmetro.com)
-1. [Miradi](https://www.miradi.org)
-1. [MiradiShare](https://www.miradishare.org/ux/home)
-1. [Scrubjay Works](https://scrubjay.works)
-1. [Comprehensive Center Network](https://compcenternetwork.org)
-1. [Commonwealth Real Estate Services](https://cwres.com)
-1. [Seminole Estates](http://www.seminoleestates.com)
-1. [XPLANE](https://xplane.com)
-1. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
-1. [Northwest PowerPool](https://www.nwpp.org)
-1. [Fat Pencil Studio](//fatpencilstudio.com/)
-1. [CS For All Teachers](//www.csforallteachers.org)
-1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
-1. [MicroMentor](//www.micromentor.org)
-2. [PDX Assist](https://pdxassist.com)
+2. [CRS Rice Bowl](https://www.crsricebowl.org)
+3. Breast Cancer Research Foundation
+4. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
+5. Multnomah County
+6. Integrated Arts Academy
+7. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
+8. Helen Keller Morbidity Management and Disability Prevention (MMDP) Project
+9. [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
+10. [Audubon Gift Center](https://gifts.audubon.org)
+11. [Saturday Academy](https://www.saturdayacademy.org)
+12. [Best Buddies](https://www.bestbuddies.org/donate/)
+13. [Navex Global](https://www.navexglobal.com)
+14. [The Intertwine](https://www.theintertwine.org)
+15. [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
+16. [CBfish.org](//cbfish.org)
+17. [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
+18. [Acumen](https://acumen.org)
+19. Burlington Friends of Education
+20. Oregon Cherry Growers, Inc.
+21. [Stop Freaking Out](https://stopfreakingout.org)
+22. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
+23. [State and Metro](http://www.stateandmetro.com)
+24. [Miradi](https://www.miradi.org)
+25. [MiradiShare](https://www.miradishare.org/ux/home)
+26. [Scrubjay Works](https://scrubjay.works)
+27. [Comprehensive Center Network](https://compcenternetwork.org)
+28. [Commonwealth Real Estate Services](https://cwres.com)
+29. [Seminole Estates](http://www.seminoleestates.com)
+30. [XPLANE](https://xplane.com)
+31. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
+32. [Northwest PowerPool](https://www.nwpp.org)
+33. [Fat Pencil Studio](//fatpencilstudio.com/)
+34. [CS For All Teachers](//www.csforallteachers.org)
+35. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+36. [MicroMentor](//www.micromentor.org)
+37. [PDX Assist](https://pdxassist.com)
+38. [Women for Women International](http://www.womenforwomen.org/powerofwomen/)
 
