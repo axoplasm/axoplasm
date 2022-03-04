@@ -49,29 +49,29 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Ports International
 1. Printemps China
 1. Mercy Corps
-1. The Film Connection
+1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
 1. Global Citizen Corps
 1. [MicroMentor](https://micromentor.org)
 1. Global Envision
 1. Mercy Corps One Table
 1. Mercy Corps Action Center
 1. Mercy Corps MPower
-1. [Sitka Technology](https://mindfulparentingpdx.org)
+1. [Sitka Technology](https://www.sitkatech.com)
 1. Frederick’s of Hollywood
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 1. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
 1. Exemplars Library
-1. Exemplars.com
+1. [Exemplars.com](https://exemplars.com)
 1. Seattle Goodwill
 1. Goodwill Southern California
 1. Goodwill Columbus
 1. Goodwill of South Central Wisconsin
 1. Portland State University College of the Arts
-1. iQ Credit Union
+1. [iQ Credit Union](https://web.archive.org/web/20150209023348/http://www.iqcu.com/)
 1. Princeton Alumni Foundation
-1. OpenSourcery
+1. [OpenSourcery](https://web.archive.org/web/20140220115655/http://www.opensourcery.com/)
 1. Mentor Graphics: System Vision
 1. Princeton Public Library
 1. Southwest Regional Surgery Center
