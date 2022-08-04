@@ -12,13 +12,15 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 * 🐣 Distracted [squawking](https://twitter.com/axoplasm)
 
 
-Current & extremely recent customer projects
---------------------------------------------
+Current & recent customer projects
+----------------------------------
 * [MicroMentor](https://www.micromentor.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [TolaActivity](https://tola-activity.mercycorps.org)
+* [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
+* [Women for Women International — Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 
 
 Professional interests
