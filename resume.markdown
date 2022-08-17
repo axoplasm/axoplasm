@@ -77,6 +77,13 @@ Employment
 #### __Museum Collections Assistant/Graduate Teaching Fellow__ at the Oregon State Museum of Anthropology  
 ##### *Eugene, OR, USA*
 
+### 1992 – 1995
+#### __Archaeological Assistant__ 
+##### various projects and employers:
+* Nebraska State Museum
+* University of North Dakota
+* Mariah Associates (Texas and Wyoming)
+* Kansas State Historial Society
 
 Education
 ---------
