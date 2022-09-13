@@ -25,6 +25,7 @@ Current & recent customer projects
 
 Professional interests
 ----------------------
+* [Getting stuff done](https://axoplasm.com/web-log/seven-year-report/)
 * [Designing by building](https://axoplasm.com/web-log/imagining-and-building/)
 * [Intentionality & discernment](https://axoplasm.com/web-log/right-and-wrong/)
 * [Doing well by doing good](https://axoplasm.com/web-log/its-ok-do-well-while-doing-good/)
