@@ -7,7 +7,7 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 * 🗻 [Can You See Mt. Hood from Council Crest?](https://canyouseemthoodfromcouncilcrest.com/)
 * 🚴‍♂️ Bike racing results on [OBRA](https://obra.org/people/61444)
 * 🐌 Snail trails on [Strava](https://www.strava.com/athletes/56063)
-* 🤓 Repos on [GitHub]([https://github.com/axoplasm](https://github.com/axoplasm?tab=repositories))
+* 🤓 Repos on [GitHub](https://github.com/axoplasm?tab=repositories)
 * 👔 CV on [LinkedIn](http://linkedin.com/in/axoplasm/)
 * 🐣 Distracted [squawking](https://twitter.com/axoplasm)
 
