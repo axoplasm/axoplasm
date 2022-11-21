@@ -9,6 +9,7 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 * 🐌 Snail trails on [Strava](https://www.strava.com/athletes/56063)
 * 🤓 Repos on [GitHub](https://github.com/axoplasm?tab=repositories)
 * 👔 CV on [LinkedIn](http://linkedin.com/in/axoplasm/)
+* 🐘 Tootling on [pdx.social](https://pdx.social/@axoplasm)
 
 
 Current & recent customer projects
