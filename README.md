@@ -21,6 +21,7 @@ Current & recent customer projects
 * [TolaActivity](https://tola-activity.mercycorps.org)
 * [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
 * [Women for Women International — Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
+* [Preschool Marketplace](https://preschoolmarketplace.org)
 
 
 Professional interests
