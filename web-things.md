@@ -122,5 +122,6 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 37. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
 38. [Women for Women International](//www.womenforwomen.org)
 39. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
-40. [Preschool Marketplace](https://www.preschoolmarketplace.org)
+40. [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
+41. [Preschool Marketplace](https://www.preschoolmarketplace.org)
 
