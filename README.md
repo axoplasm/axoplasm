@@ -23,6 +23,8 @@ Current & recent customer projects
 * [Women for Women International — Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 * [Preschool Marketplace](https://preschoolmarketplace.org)
 
+*(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
+
 
 Professional interests
 ----------------------
