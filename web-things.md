@@ -1,4 +1,4 @@
-If my web career were a person, it would be able to legally buy beer in the United States. Here’s a *definitely incomplete* list of all the companies and organizations whose web properites I have been paid to touch (in code, pixels, concept or words), in approximately chronological order. 
+If my web career were a person, it would be able to rent car. Here’s a *definitely incomplete* list of all the companies and organizations whose web or email or mobile app properties I have touched (in code, pixels, concept or words), in approximately chronological order. 
 
 __I do not represent the work below as “my” work.__ I did *something*, for each of these clients: UX, email, development, branding, app design...but that *something* might or might not be at the URLs below, which are just for reference. Where I can point to something specific (like a donation page), or to a capture in the Wayback Machine — that *might* be “my” work.
 
