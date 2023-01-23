@@ -40,7 +40,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Lottery
 1. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
-1. PolyServe
+1. [PolyServe](https://web.archive.org/web/20051130013315/http://www.polyserve.com/)
 1. Intel (Brand Center)
 1. Windows Mobile
 1. Xiamen International School
@@ -48,7 +48,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Ports 1961
 1. Ports International
 1. Printemps China
-1. Mercy Corps
+1. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
 1. Global Citizen Corps
 1. [MicroMentor](https://micromentor.org)
@@ -56,7 +56,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mercy Corps One Table
 1. Mercy Corps Action Center
 1. Mercy Corps MPower
-1. [Sitka Technology](https://www.sitkatech.com)
+1. [Sitka Technology](https://web.archive.org/web/20181023044922/http://sitkatech.com/)
 1. Frederick’s of Hollywood
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 1. [Cognitive Atlas](https://cognitiveatlas.org)
@@ -119,6 +119,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 34. [CS For All Teachers](//www.csforallteachers.org)
 35. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 36. [MicroMentor](//www.micromentor.org)
-37. [PDX Assist](https://pdxassist.com)
-38. [Women for Women International](http://www.womenforwomen.org/powerofwomen/)
+37. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
+38. [Women for Women International](//www.womenforwomen.org)
+39. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 
