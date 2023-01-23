@@ -113,7 +113,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 26. [Scrubjay Works](https://scrubjay.works)
 27. [Comprehensive Center Network](https://compcenternetwork.org)
 28. [Commonwealth Real Estate Services](https://cwres.com)
-29. [Seminole Estates](http://www.seminoleestates.com)
+29. Seminole Estates
 30. [XPLANE](https://xplane.com)
 31. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
 32. [Northwest PowerPool](https://www.nwpp.org)
