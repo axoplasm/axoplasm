@@ -1,5 +1,7 @@
 If my web career were a person, it would be able to rent car. Here’s a *definitely incomplete* list of all the companies and organizations whose web or email or mobile app properties I have touched (in code, pixels, concept or words), in approximately chronological order. 
 
+This isn’t a list of *projects* by the way, but a list of properties or initiatives, for which I likely produced dozens of deliverables on multiple projects. By a [very rough guess](https://axoplasm.com/web-log/seven-year-report/), I have delivered at least 4,000 deliverables on more than 400 projects.
+
 __I do not represent the work below as “my” work.__ I did *something*, for each of these clients: UX, email, development, branding, app design...but that *something* might or might not be at the URLs below, which are just for reference. Where I can point to something specific (like a donation page), or to a capture in the Wayback Machine — that *might* be “my” work.
 
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
