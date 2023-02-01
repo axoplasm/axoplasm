@@ -123,7 +123,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Cherry Growers, Inc.
 
 #### ca 2017–2018
-98. [Stop Freaking Out](https://stopfreakingout.org)
+99. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 1. [State and Metro](http://www.stateandmetro.com)
 1. [Miradi](https://www.miradi.org)
@@ -140,7 +140,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 
 #### ca 2019–now
-112. [MicroMentor](//www.micromentor.org)
+114. [MicroMentor](//www.micromentor.org)
 1. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
 1. [Women for Women International](//www.womenforwomen.org)
 1. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
