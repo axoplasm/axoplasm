@@ -6,7 +6,7 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
-
+#### ca 1999
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 1. Tektronix
 1. [Archaeological Investigations Northwest](https://web.archive.org/web/19991230124111/http://www.ainw.com/)
@@ -14,7 +14,9 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Discovery Channel Kids
 1. Fleet Bank Kids
 1. General Mills (Froot Loops)
-1. Hanlon Brown Design
+
+#### ca 2000
+8. Hanlon Brown Design
 1. CyberSight/Nine Dots
 1. Quaker Oats (MediaNet)
 1. Quaker Oats (Oatmeal.com)
@@ -23,14 +25,18 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Visa
 1. Northwest Airlines
 1. [NW Natural](https://web.archive.org/web/20020802001016/http://www.nwnatural.com/home/home.asp)
-1. Techtracker
-1. VersionTracker
-1. MacFixit
-1. [800.com](https://web.archive.org/web/20011201072334/http://www.800.com/)
-1. [Portland General Electric](https://web.archive.org/web/20020120142310/http://portlandgeneral.com/)
-1. [PGE TownPartner](https://web.archive.org/web/20020326174000/http://townpartner.com/)
-1. Flashback Games
-1. Arrondi
+
+#### ca 2001
+17. Techtracker
+4. VersionTracker
+5. MacFixit
+6. [800.com](https://web.archive.org/web/20011201072334/http://www.800.com/)
+7. [Portland General Electric](https://web.archive.org/web/20020120142310/http://portlandgeneral.com/)
+8. [PGE TownPartner](https://web.archive.org/web/20020326174000/http://townpartner.com/)
+9. Flashback Games
+
+#### ca 2002–2004
+24. Arrondi
 1. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
 1. HP (Crafting)
@@ -40,17 +46,23 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. The Smaller Things
 1. [Chalkboard Project](https://web.archive.org/web/20050208103334/http://www.chalkboardproject.org/)
 1. Oregon Lottery
-1. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
+
+#### ca 2005
+34. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
 1. [PolyServe](https://web.archive.org/web/20051130013315/http://www.polyserve.com/)
 1. Intel (Brand Center)
 1. Windows Mobile
-1. Xiamen International School
+
+#### ca 2006
+39. Xiamen International School
 1. Adrian and Emily
 1. Ports 1961
 1. Ports International
 1. Printemps China
-1. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
+
+#### ca 2007–2012
+44. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
 1. Global Citizen Corps
 1. [MicroMentor](https://micromentor.org)
@@ -61,7 +73,9 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Sitka Technology](https://web.archive.org/web/20181023044922/http://sitkatech.com/)
 1. Frederick’s of Hollywood
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
-1. [Cognitive Atlas](https://cognitiveatlas.org)
+
+#### ca 2013–2014
+55. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
 1. Exemplars Library
@@ -77,7 +91,9 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Mentor Graphics: System Vision
 1. Princeton Public Library
 1. Southwest Regional Surgery Center
-1. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
+
+#### ca 2015–2016
+71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
 1. Vermont Public Radio
 1. VISTA Campus
@@ -86,44 +102,49 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. CRS Faith Acts
 1. [CRS University](https://university.crs.org)
 1. CRS Education
-2. [CRS Rice Bowl](https://www.crsricebowl.org)
-3. Breast Cancer Research Foundation
-4. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
-5. Multnomah County
-6. Integrated Arts Academy
-7. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
-8. Helen Keller Morbidity Management and Disability Prevention (MMDP) Project
-9. [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
-10. [Audubon Gift Center](https://gifts.audubon.org)
-11. [Saturday Academy](https://www.saturdayacademy.org)
-12. [Best Buddies](https://www.bestbuddies.org/donate/)
-13. [Navex Global](https://www.navexglobal.com)
-14. [The Intertwine](https://www.theintertwine.org)
-15. [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
-16. [CBfish.org](//cbfish.org)
-17. [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
-18. [Acumen](https://acumen.org)
-19. Burlington Friends of Education
-20. Oregon Cherry Growers, Inc.
-21. [Stop Freaking Out](https://stopfreakingout.org)
-22. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
-23. [State and Metro](http://www.stateandmetro.com)
-24. [Miradi](https://www.miradi.org)
-25. [MiradiShare](https://www.miradishare.org/ux/home)
-26. [Scrubjay Works](https://scrubjay.works)
-27. [Comprehensive Center Network](https://compcenternetwork.org)
-28. [Commonwealth Real Estate Services](https://cwres.com)
-29. Seminole Estates
-30. [XPLANE](https://xplane.com)
-31. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
-32. [Northwest PowerPool](https://www.nwpp.org)
-33. [Fat Pencil Studio](//fatpencilstudio.com/)
-34. [CS For All Teachers](//www.csforallteachers.org)
-35. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
-36. [MicroMentor](//www.micromentor.org)
-37. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
-38. [Women for Women International](//www.womenforwomen.org)
-39. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
-40. [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
-41. [Preschool Marketplace](https://www.preschoolmarketplace.org)
+1. [CRS Rice Bowl](https://www.crsricebowl.org)
+1. Breast Cancer Research Foundation
+1. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
+1. Multnomah County
+1. Integrated Arts Academy
+1. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
+1. Helen Keller Morbidity Management and Disability Prevention (MMDP) Project
+1. [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
+1. [Audubon Gift Center](https://gifts.audubon.org)
+1. [Saturday Academy](https://www.saturdayacademy.org)
+1. [Best Buddies](https://www.bestbuddies.org/donate/)
+1. [Navex Global](https://www.navexglobal.com)
+1. [The Intertwine](https://www.theintertwine.org)
+1. [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
+1. [CBfish.org](//cbfish.org)
+1. [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
+1. [Acumen](https://acumen.org)
+1. Burlington Friends of Education
+1. Oregon Cherry Growers, Inc.
+
+#### ca 2017–2018
+98. [Stop Freaking Out](https://stopfreakingout.org)
+1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
+1. [State and Metro](http://www.stateandmetro.com)
+1. [Miradi](https://www.miradi.org)
+1. [MiradiShare](https://www.miradishare.org/ux/home)
+1. [Scrubjay Works](https://scrubjay.works)
+1. [Comprehensive Center Network](https://compcenternetwork.org)
+1. [Commonwealth Real Estate Services](https://cwres.com)
+1. Seminole Estates
+1. [XPLANE](https://xplane.com)
+1. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
+1. [Northwest PowerPool](https://www.nwpp.org)
+1. [Fat Pencil Studio](//fatpencilstudio.com/)
+1. [CS For All Teachers](//www.csforallteachers.org)
+1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+
+#### ca 2019–now
+112. [MicroMentor](//www.micromentor.org)
+1. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
+1. [Women for Women International](//www.womenforwomen.org)
+1. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
+1. [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
+1. [Preschool Marketplace](https://www.preschoolmarketplace.org)
+
 
