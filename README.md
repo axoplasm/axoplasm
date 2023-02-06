@@ -2,13 +2,13 @@ axoplasm is Paul Souders
 ========================
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
-* ✳️  [//axoplasm.com](//axoplasm.com)
-* 🏣 [//scrubjay.works/](//scrubjay.works/)
-* 🗻 [//canyouseemthoodfromcouncilcrest.com/](//canyouseemthoodfromcouncilcrest.com/)
-* 🚲 [//strava.com/athletes/56063](//strava.com/athletes/56063)
-* 🤓 [//github.com/axoplasm?tab=repositories](//github.com/axoplasm?tab=repositories)
-* 👔 [//linkedin.com/in/axoplasm/](//linkedin.com/in/axoplasm/)
-* 🐘 [//pdx.social/@axoplasm](//pdx.social/@axoplasm)
+* ✳️  [axoplasm.com](//axoplasm.com)
+* 🏣 [scrubjay.works/](//scrubjay.works/)
+* 🗻 [canyouseemthoodfromcouncilcrest.com/](//canyouseemthoodfromcouncilcrest.com/)
+* 🚲 [strava.com/athletes/56063](//strava.com/athletes/56063)
+* 🤓 [github.com/axoplasm?tab=repositories](//github.com/axoplasm?tab=repositories)
+* 👔 [linkedin.com/in/axoplasm/](//linkedin.com/in/axoplasm/)
+* 🐘 [pdx.social/@axoplasm](//pdx.social/@axoplasm)
 
 
 Current & recent customer projects
