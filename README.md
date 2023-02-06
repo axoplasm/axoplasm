@@ -2,14 +2,13 @@ axoplasm is Paul Souders
 ========================
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
-* ✳️ [Personal website](https://axoplasm.com)
-* 🏣 [Scrubjay](https://scrubjay.works/)
-* 🗻 [Can You See Mt. Hood from Council Crest?](https://canyouseemthoodfromcouncilcrest.com/)
-* 🚴‍♂️ Bike racing results on [OBRA](https://obra.org/people/61444)
-* 🐌 Snail trails on [Strava](https://www.strava.com/athletes/56063)
-* 🤓 Repos on [GitHub](https://github.com/axoplasm?tab=repositories)
-* 👔 CV on [LinkedIn](http://linkedin.com/in/axoplasm/)
-* 🐘 Tootling on [pdx.social](https://pdx.social/@axoplasm)
+* ✳️  [//axoplasm.com](//axoplasm.com)
+* 🏣 [//scrubjay.works/](//scrubjay.works/)
+* 🗻 [//canyouseemthoodfromcouncilcrest.com/](//canyouseemthoodfromcouncilcrest.com/)
+* 🚲 [//strava.com/athletes/56063](//strava.com/athletes/56063)
+* 🤓 [//github.com/axoplasm?tab=repositories](//github.com/axoplasm?tab=repositories)
+* 👔 [//linkedin.com/in/axoplasm/](//linkedin.com/in/axoplasm/)
+* 🐘 [//pdx.social/@axoplasm](//pdx.social/@axoplasm)
 
 
 Current & recent customer projects
