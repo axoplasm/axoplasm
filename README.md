@@ -14,12 +14,13 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 Current & recent customer projects
 ----------------------------------
 * [Mercy Corps — TolaActivity](https://tola-activity.mercycorps.org)
+* [Women for Women International](https://www.womenforwomen.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
-* [Women for Women International — Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [Preschool Marketplace](https://preschoolmarketplace.org)
 * [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
+* [Women for Women International — Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 * [MicroMentor](https://www.micromentor.org)
 
 *(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
