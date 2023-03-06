@@ -6,7 +6,7 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
-#### ca 1999
+#### ca 1998–1999
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 1. Tektronix
 1. [Archaeological Investigations Northwest](https://web.archive.org/web/19991230124111/http://www.ainw.com/)
