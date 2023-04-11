@@ -3,7 +3,7 @@ axoplasm is Paul Souders
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
 * ✳️  [axoplasm.com](//axoplasm.com)
-* 🏣 [scrubjay.works](//scrubjay.works/)
+* 💼 [scrubjay.works](//scrubjay.works/)
 * 🗻 [CanYouSeeMtHoodFromCouncilCrest.com](//canyouseemthoodfromcouncilcrest.com/)
 * 🚲 [strava.com/athletes/56063](//strava.com/athletes/56063)
 * 🤓 [github.com/axoplasm?tab=repositories](//github.com/axoplasm?tab=repositories)
