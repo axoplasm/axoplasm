@@ -6,7 +6,11 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
-#### ca 1998–1999
+
+### ca 1998–1999
+
+The Eocene
+
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 1. Tektronix
 1. [Archaeological Investigations Northwest](https://web.archive.org/web/19991230124111/http://www.ainw.com/)
@@ -14,10 +18,14 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Discovery Channel Kids
 1. Fleet Bank Kids
 1. General Mills (Froot Loops)
+8. Hanlon Brown Design
+
 
 #### ca 2000
-8. Hanlon Brown Design
-1. CyberSight/Nine Dots
+
+CyberDots Era
+
+9. CyberSight/Nine Dots
 1. Quaker Oats (MediaNet)
 1. Quaker Oats (Oatmeal.com)
 1. Quaker Oats (Cap’n Crunch)
@@ -26,18 +34,26 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Northwest Airlines
 1. [NW Natural](https://web.archive.org/web/20020802001016/http://www.nwnatural.com/home/home.asp)
 
+
 #### ca 2001
+
+[DotBust](https://en.wikipedia.org/wiki/Dot-com_bubble)
+
 17. Techtracker
-4. VersionTracker
-5. MacFixit
-6. [800.com](https://web.archive.org/web/20011201072334/http://www.800.com/)
-7. [Portland General Electric](https://web.archive.org/web/20020120142310/http://portlandgeneral.com/)
-8. [PGE TownPartner](https://web.archive.org/web/20020326174000/http://townpartner.com/)
-9. Flashback Games
+1. VersionTracker
+1. MacFixit
+1. [800.com](https://web.archive.org/web/20011201072334/http://www.800.com/)
+1. [Portland General Electric](https://web.archive.org/web/20020120142310/http://portlandgeneral.com/)
+1. [PGE TownPartner](https://web.archive.org/web/20020326174000/http://townpartner.com/)
+1. Flashback Games
+1. Arrondi
+
 
 #### ca 2002–2004
-24. Arrondi
-1. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
+
+Curiosity Era
+
+25. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
 1. HP (Crafting)
 1. HP (IT Network)
@@ -47,21 +63,33 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Chalkboard Project](https://web.archive.org/web/20050208103334/http://www.chalkboardproject.org/)
 1. Oregon Lottery
 
+
 #### ca 2005
+
+ID Branding Era
+
 34. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
 1. [PolyServe](https://web.archive.org/web/20051130013315/http://www.polyserve.com/)
 1. Intel (Brand Center)
 1. Windows Mobile
 
+
 #### ca 2006
+
+China
+
 39. Xiamen International School
 1. Adrian and Emily
 1. Ports 1961
 1. Ports International
 1. Printemps China
 
+
 #### ca 2007–2012
+
+Mercy Corps Era
+
 44. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
 1. Global Citizen Corps
@@ -74,7 +102,11 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Frederick’s of Hollywood
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 
+
 #### ca 2013–2014
+
+OpenSourcery Era
+
 55. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
@@ -92,7 +124,11 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Princeton Public Library
 1. Southwest Regional Surgery Center
 
+
 #### ca 2015–2016
+
+Have MacBook Will Travel
+
 71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
 1. Vermont Public Radio
@@ -122,7 +158,11 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Burlington Friends of Education
 1. Oregon Cherry Growers, Inc.
 
+
 #### ca 2017–2018
+
+Hello Scrubjay 
+
 99. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 1. [State and Metro](http://www.stateandmetro.com)
@@ -137,9 +177,13 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Northwest PowerPool](https://www.nwpp.org)
 1. [Fat Pencil Studio](//fatpencilstudio.com/)
 1. [CS For All Teachers](//www.csforallteachers.org)
-1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+
 
 #### ca 2019–now
+
+Mercy Corps Again
+
+113. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 114. [MicroMentor](//www.micromentor.org)
 1. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
 1. [Women for Women International](//www.womenforwomen.org)
