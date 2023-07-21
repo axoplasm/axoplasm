@@ -7,9 +7,7 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
 
-### ca 1998–1999
-
-The Eocene
+### ca 1998–1999: *The Eocene*
 
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 1. Tektronix
@@ -21,9 +19,7 @@ The Eocene
 8. Hanlon Brown Design
 
 
-#### ca 2000
-
-CyberDots Era
+### ca 2000: *CyberDots Era*
 
 9. CyberSight/Nine Dots
 1. Quaker Oats (MediaNet)
@@ -35,9 +31,7 @@ CyberDots Era
 1. [NW Natural](https://web.archive.org/web/20020802001016/http://www.nwnatural.com/home/home.asp)
 
 
-#### ca 2001
-
-[DotBust](https://en.wikipedia.org/wiki/Dot-com_bubble)
+### ca 2001: *DotBust*
 
 17. Techtracker
 1. VersionTracker
@@ -49,9 +43,7 @@ CyberDots Era
 1. Arrondi
 
 
-#### ca 2002–2004
-
-Curiosity Era
+### ca 2002–2004: *Curiosity Era*
 
 25. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
@@ -64,9 +56,7 @@ Curiosity Era
 1. Oregon Lottery
 
 
-#### ca 2005
-
-ID Branding Era
+### ca 2005: *ID Branding Era*
 
 34. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
@@ -75,9 +65,7 @@ ID Branding Era
 1. Windows Mobile
 
 
-#### ca 2006
-
-China
+### ca 2006: *China*
 
 39. Xiamen International School
 1. Adrian and Emily
@@ -86,9 +74,7 @@ China
 1. Printemps China
 
 
-#### ca 2007–2012
-
-Mercy Corps Era
+### ca 2007–2012: *Mercy Corps Era*
 
 44. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
@@ -103,9 +89,7 @@ Mercy Corps Era
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 
 
-#### ca 2013–2014
-
-OpenSourcery Era
+### ca 2013–2014: *OpenSourcery Era*
 
 55. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
@@ -125,9 +109,7 @@ OpenSourcery Era
 1. Southwest Regional Surgery Center
 
 
-#### ca 2015–2016
-
-Have MacBook Will Travel
+### ca 2015–2016: *Have MacBook, Will Travel*
 
 71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
@@ -159,9 +141,7 @@ Have MacBook Will Travel
 1. Oregon Cherry Growers, Inc.
 
 
-#### ca 2017–2018
-
-Hello Scrubjay 
+### ca 2017–2018: *Hello Scrubjay*
 
 99. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
@@ -179,9 +159,7 @@ Hello Scrubjay
 1. [CS For All Teachers](//www.csforallteachers.org)
 
 
-#### ca 2019–now
-
-Mercy Corps Again
+### ca 2019–now: *Mercy Corps Again*
 
 113. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 114. [MicroMentor](//www.micromentor.org)
