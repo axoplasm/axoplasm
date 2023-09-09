@@ -67,10 +67,13 @@ Proficiencies
 -------------
 
 - User experience design, with a lean methodology
+- Multilingual, internationalized, and localized websites, including for non-Latin and right-to-left scripts
 - Design system development
 - Product design, product management, and product ownership
 - Product strategy
 - Project management (lean and agile-adjacent)
+- Technical design and architecture
+- Infrastructure support and maintenance
 - Front-end web development, emphasizing design systems
 - Web app development
 - CMS development
@@ -126,6 +129,7 @@ Technical skills
 - Jira
 - Trello
 - Shortcut
+- CrowdIn
 - Apple Notes
 - Spreadsheets
 - Google docs
@@ -153,10 +157,25 @@ Technical skills
 
 ### Infrastructure and operations
 
-- Linux (Ubuntu)
-- BSD/Unix (MacOS)
 - Digital Ocean Ubuntu droplets
 - Digital Ocean App Platform
+- Azure Cloud
 - Pantheon
 - Heroku
 
+
+### Greenscreens 
+
+- MacOs
+- Ubuntu Linux
+- Homebrew
+- apt
+- git
+- npm
+- Webpack
+- Rollup
+- VSCode
+- PyCharm
+- Panic Nova
+- Vim
+- bashed-up Python scripts as glue
