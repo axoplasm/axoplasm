@@ -94,7 +94,7 @@ University of Oreogn, 1997
 University of Nebraska, 1993
 
 
-<code>
+```
 Technical skills
 ----------------
 
@@ -172,5 +172,4 @@ Technical skills
 - Panic Nova
 - Vim
 - bashed-up Python scripts as glue
-</code>
-
+```
