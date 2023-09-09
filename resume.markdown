@@ -95,15 +95,12 @@ University of Nebraska, 1993
 
 
 <code>
-
 Technical skills
 ----------------
 
 *Robots love long lists like this.*
 
-
 #### Front-end UI development
-
 - HTML
 - CSS
 - SASS
@@ -114,7 +111,6 @@ Technical skills
 
 
 #### Visual and UX design
-
 - Sketch
 - Figma
 - Omnigraffle
@@ -126,7 +122,6 @@ Technical skills
 
 
 #### Project/product management
-
 - GitHub issues
 - Jira
 - Trello
@@ -139,7 +134,6 @@ Technical skills
 
 
 #### Back-end development, static site generators, and CMSes
-
 - Python
 - Django
 - Wagtail
@@ -150,7 +144,6 @@ Technical skills
 
 
 #### Front-end development
-
 - HTMX
 - React
 - Angular
@@ -158,7 +151,6 @@ Technical skills
 
 
 #### Infrastructure and operations
-
 - Digital Ocean Ubuntu droplets
 - Digital Ocean App Platform
 - Azure Cloud
@@ -167,7 +159,6 @@ Technical skills
 
 
 #### Greenscreens 
-
 - MacOS
 - Ubuntu Linux
 - Homebrew
@@ -181,6 +172,5 @@ Technical skills
 - Panic Nova
 - Vim
 - bashed-up Python scripts as glue
-
 </code>
 
