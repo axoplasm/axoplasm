@@ -94,13 +94,15 @@ University of Oreogn, 1997
 University of Nebraska, 1993
 
 
+<code>
+
 Technical skills
 ----------------
 
 *Robots love long lists like this.*
 
 
-### Front-end UI development
+#### Front-end UI development
 
 - HTML
 - CSS
@@ -111,7 +113,7 @@ Technical skills
 - JQuery
 
 
-### Visual and UX design
+#### Visual and UX design
 
 - Sketch
 - Figma
@@ -123,7 +125,7 @@ Technical skills
 - Cocktail napkins
 
 
-### Project/product management
+#### Project/product management
 
 - GitHub issues
 - Jira
@@ -136,7 +138,7 @@ Technical skills
 - Piles of stickies
 
 
-### Back-end development, static site generators, and CMSes
+#### Back-end development, static site generators, and CMSes
 
 - Python
 - Django
@@ -147,7 +149,7 @@ Technical skills
 - Pelican
 
 
-### Front-end development
+#### Front-end development
 
 - HTMX
 - React
@@ -155,7 +157,7 @@ Technical skills
 - Svelte
 
 
-### Infrastructure and operations
+#### Infrastructure and operations
 
 - Digital Ocean Ubuntu droplets
 - Digital Ocean App Platform
@@ -164,7 +166,7 @@ Technical skills
 - Heroku
 
 
-### Greenscreens 
+#### Greenscreens 
 
 - MacOS
 - Ubuntu Linux
@@ -179,3 +181,6 @@ Technical skills
 - Panic Nova
 - Vim
 - bashed-up Python scripts as glue
+
+</code>
+
