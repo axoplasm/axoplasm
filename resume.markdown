@@ -94,12 +94,11 @@ University of Oreogn, 1997
 University of Nebraska, 1993
 
 
-```
 Technical skills
 ----------------
-
 *Robots love long lists like this.*
 
+```md
 #### Front-end UI development
 - HTML
 - CSS
