@@ -28,10 +28,11 @@ My core principles
     * Its major contingency arises when “good” people look away
     * …or choose expediency over quality
 * “Good” exists only when we make it
+* [Nostalgia is poison](https://axoplasm.com/blog/miss-this-dog-toilet/).
 
 Religion/Sprituality
 --------------------
-* Anything anyone says about God is wrong, including this.
+* [Anything anyone says about God is wrong](https://axoplasm.com/blog/i-used-to-think-about-this-all-the-time/), including this.
 * Don’t confuse the finger pointing at the moon with the moon.
 * Souls arise gradually as a process of interacting with the world, and defining oneself in opposition to it.
 * Personality and memory are erased at the moment of death; there will be no “afterlife” in which I perceive myself or my soul.
@@ -54,19 +55,20 @@ Human Nature
 Ethics, loosely
 ---------------
 * The ends do not justify the means; indeed this statement and its more-common obverse are self-contradictory. There is no end, only means. The end you arrive at is entirely a process of your means.
-* In English (and perhaps other languages), “right” and “wrong” have dual meanings: “right” may mean either “morally good” or “functionally appropriate.” These meanings not fundamentally separable. In general, good people strive to do things correctly.
+* In English (and perhaps other languages), “right” and “wrong” have dual meanings: “right” may mean either “morally good” or “functionally appropriate.” These meanings are not fundamentally separable. In general, [good people strive to do things correctly](https://axoplasm.com/blog/right-and-wrong/).
+* This is subtle, but failing to make distinctions has the effect of collectively damaging the ability to discern [reality from unreality](https://axoplasm.com/blog/reality-tv/]. It is not coincidental that the worst people in the world also believe outrageous and unrealitistic things.
 
 Health
 ------
-* Human beings were built to:
+* Human beings were [built](https://axoplasm.com/blog/ten-human-universals/) to:
     * Be outdoors all day long
-    * Walk long distances every day
+    * [Walk long distances every day](https://axoplasm.com/blog/five-miles/)
     * Eat cooked food, mostly fibrous plant matter, but lots of other things
     * Spend most of their time in close proximity to people they know
 * Failing to do the above is probably responsible for most of the physical, spiritual, and mental ailments of modern America
 * Two hours of vigorous physical motion and fresh air, will fix many minor physical ailments, sniffles or aches or such, and most spiritual and mental ailments.
 * Meat isn’t murder but it isn’t very polite. People who take excessive joy in eating meat are not mentally stable.
-* Bicycles are awesome.
+* [Bicycles are awesome](https://axoplasm.com/blog/a-perfect-machine/).
 
 Interpersonal relationships
 ---------------------------
@@ -101,9 +103,9 @@ Environment
 
 Let’s check my privilege
 ------------------------
-Upper-middle class, straight, white, cis, male, skinny, able-bodied other than poor eyesight, from a stable and loving family. Those are the privileges I was born with.
+Upper-middle class, straight, white, cis, male, skinny, able-bodied other than poor eyesight, from a stable and loving family. Those are the [privileges](https://axoplasm.com/blog/so-many-privileges/) I was born with.
 
-My privileges manifest almost entirely in me not noticing them. Only once, to my knowledge, has my identity ever been an issue, when I applied for a job at Planned Parenthood. They wanted a woman for the job and they told me so. It was No Big Deal. I guess I should’ve felt some injustice (“what if they told you __to your face__ that you wouldn’t get the job because you were a __woman__!”). I got a job at Kinko’s instead where I was oblivious to the fact that I could work the graveyard shift alone in the most dangerous part of town without fearing anything worse than a holdup. I never took precautions like locking the side door or leaving one phone on speed dial to 911. Like the woman who worked graveyard shift the other nights of the week. It never occurred to me that those were the kinds of things that other people had to do.
+I never used to notice my privileges. In the past decade or so, I have begun to pay more attention to my identity; not coincidentally as I work and socialize with more people unlike myself. Only once, to my knowledge, has my identity ever been an issue, when I applied for a job at Planned Parenthood. They wanted a woman for the job and they told me so. It was No Big Deal. I guess I should’ve felt some injustice (“what if they told you __to your face__ that you wouldn’t get the job because you were a __woman__!”). I got a job at Kinko’s instead where I was oblivious to the fact that I could work the graveyard shift alone in the most dangerous part of town without fearing anything worse than a holdup. I never took precautions like locking the side door or leaving one phone on speed dial to 911. Like the woman who worked graveyard shift the other nights of the week. It never occurred to me that those were the kinds of things that other people had to do.
 
 The beauty/tragedy of people with my privilege is that we just fail upward and then get mad at everyone else for not failing upward. (“How hard could it be? This is a __meritocracy__” etc.) 
 
@@ -111,11 +113,13 @@ I doubt my father, in the I dunno 1980s, often thought of himself as belonging t
 
 The privilege I think most about is the upper-middle-class one. I used to believe that socioeconomic class matters more than other identities. But now I think that was my other privileges talking. 
 
+Masculinity, in particular, is a dangerous privilege. Scratch a fascist and you will probably find a misogynist. Men have lost their way; “manhood” is not the state of “not being a woman,” it is the state of [“not being a boy.”](https://axoplasm.com/blog/youre-good-man/)
+
 The privileges I think least about are sexual orientation and able-bodiedness. I have only begun to notice my (cis-)gender privileges, or to note it in others.
 
 I don’t apologize for my privileges. I try not to apologize generally (see *Interpersonal Relationships,* above.) White liberal guilt is for the benefit of white liberals. My hop instead is __1.__ to shut up and listen and let others own their stories; and __2.__ call out bad behavior by others with my privileges.
 
-I have been a privileged asshole various points. In a meeting once I said “if we had the cajones to [do x]” and someone called me on it as (essentially) misogynistic. Others rolled their eyes and like a chump I apologized for what I said. I shouldn’t have apologized — I meant it when I said it, and what does an apology fix, anyway? But I should have called out the others who rolled their eyes: “hey, she’s right. That’s kinda sexist and I can do better.”
+I have been a privileged asshole at various points. In a meeting once I said “if we had the cajones to [do x]” and someone called me on it as (essentially) misogynistic. Others rolled their eyes and like a chump I apologized for what I said. I shouldn’t have apologized — I meant it when I said it, and what does an apology fix, anyway? But I should have [called out the others](https://axoplasm.com/blog/dude-not-cool/) who rolled their eyes: “hey, she’s right. That’s kinda sexist and I can do better.”
 
 I don’t want to Be an Ally. Being is easy. Doing is hard. 
 
