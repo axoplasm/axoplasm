@@ -55,7 +55,7 @@ I designed and developed websites for NW Natural, Dole Foods, Quaker Oats, and C
 
 ### 1999–2000: __Web Designer and Flash Animator, Headbone Interactive__
 
-At my first-ever web design job after changing careers from Archaeology, I hand-rolled static page design and game prototypes in HTML, wrote small CGI games, crafted Flash animations, and drew monkeys (and various other creatures) for kids‘ web portals. Clients included Headbone Zone, Discovery Channel, Fleet Bank, and CBS.
+At my first-ever web design job after changing careers from Archaeology, I hand-rolled static page designs and game prototypes in HTML, wrote small CGI games, crafted Flash animations, and drew monkeys (and various other creatures) for kids‘ web portals. Clients included Headbone Zone, Discovery Channel, Fleet Bank, and CBS.
 
 
 ### 1992–1999: Archaeologist
