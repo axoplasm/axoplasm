@@ -5,7 +5,7 @@ Paul Souders
 
 * [scrubjay.works](//scrubjay.works)
 * [axoplasm.com](//axoplasm.com)
-* [linkedin.com/in/axoplasm/](//www.linkedin.com/in/axoplasm/)
+* [linkedin.com/in/axoplasm](//www.linkedin.com/in/axoplasm/)
 * [github.com/axoplasm](//github.com/axoplasm/)
 
 
