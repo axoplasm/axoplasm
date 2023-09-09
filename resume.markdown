@@ -166,7 +166,7 @@ Technical skills
 
 ### Greenscreens 
 
-- MacOs
+- MacOS
 - Ubuntu Linux
 - Homebrew
 - apt
