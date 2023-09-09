@@ -15,7 +15,7 @@ Selected work experience
 
 ### 2017–Present: __Principal, Scrubjay__
 
-[Scrubjay](//scrubjay.works) is a generalist digital workshop. We build digital experiences for socially-responsible organizations. Our current and recent client roster includes [Mercy Corps](//mercycorps.org), [Fat Pencil Studio](//fatpencilstudio.com), [United Way of the Columbia-Willamette](//unitedway-pdx.org), [Preschool Marketplace](//preschoolmarketplace.org), [Early Learning Multnomah](//earlylearningmultnomah.org), and [Women for Women International](//womenforwomen.org).
+[Scrubjay](//scrubjay.works) is a generalist digital workshop. We build digital experiences for socially-responsible organizations. Our current client roster includes [Mercy Corps](//mercycorps.org), [Fat Pencil Studio](//fatpencilstudio.com), [United Way of the Columbia-Willamette](//unitedway-pdx.org), [Preschool Marketplace](//preschoolmarketplace.org), [Early Learning Multnomah](//earlylearningmultnomah.org), and [Women for Women International](//womenforwomen.org).
 
 
 ### 2019–2022: __Design Lead and Engineering Manager, MicroMentor__
@@ -63,6 +63,21 @@ At my first-ever web design job after changing careers from Archaeology, I hand-
 I have a Master’s degree in anthropology and practiced archaeology for most of the 1990s throughout the western United States. I haven’t been in that world for a long time but I love to tell stories about it.
 
 
+Proficiencies
+-------------
+
+- User experience design, with a lean methodology
+- Design system development
+- Product design, product management, and product ownership
+- Product strategy
+- Project management (lean and agile-adjacent)
+- Front-end web development, emphasizing design systems
+- Web app development
+- CMS development
+- Visual graphic design for web and mobile apps
+- Branding and logo design
+
+
 Education
 ---------
 
@@ -75,4 +90,73 @@ University of Oreogn, 1997
 
 University of Nebraska, 1993
 
+
+Technical skills
+----------------
+
+*Robots love long lists like this.*
+
+
+### Front-end UI development
+
+- HTML
+- CSS
+- SASS
+- Bootstrap
+- Zurb Foundation
+- Vanilla JavaScript
+- JQuery
+
+
+### Visual and UX design
+
+- Sketch
+- Figma
+- Omnigraffle
+- Adobe Photoshop
+- Adobe Illustrator
+- Whiteboards
+- Moleskine notebooks
+- Cocktail napkins
+
+
+### Project/product management
+
+- GitHub issues
+- Jira
+- Trello
+- Shortcut
+- Apple Notes
+- Spreadsheets
+- Google docs
+- Piles of stickies
+
+
+### Back-end development, static site generators, and CMSes
+
+- Python
+- Django
+- Wagtail
+- PHP
+- Drupal
+- 11ty (Eleventy)
+- Pelican
+
+
+### Front-end development
+
+- HTMX
+- React
+- Angular
+- Svelte
+
+
+### Infrastructure and operations
+
+- Linux (Ubuntu)
+- BSD/Unix (MacOS)
+- Digital Ocean Ubuntu droplets
+- Digital Ocean App Platform
+- Pantheon
+- Heroku
 
