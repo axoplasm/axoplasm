@@ -23,7 +23,10 @@ My core principles
 	* random
 	* without purpose
 * All things and all people have intrinsic meaning and worth beyond their “usefulness” to anyone or anything else
+* There is no fundamental distinction between doing something (morally) good and doing something well
 * “Evil” exists but is transient and contingent
+    * Its major contingency arises when “good” people look away
+    * …or choose expediency over quality
 * “Good” exists only when we make it
 
 Religion/Sprituality
@@ -41,18 +44,27 @@ Religion/Sprituality
 
 Human Nature
 ------------
-* People are essentially __good__ and fundamentally __lazy.__
+* People are essentially __good__ and fundamentally __lazy__
 	* This explains about 99% of daily behavior.
 	* Also assumes basic aspects of survival are assured. *Erst Fressen, dann Moral.*
-* Most evil is committed by people thinking they are doing “good.”
+* Some people intentionally harm others and recognize they are doing “evil.” 
+    * I cannot comprehend their mentality and it may damage me spiritually to try
+* But most evil is abetted by people who think they are doing “good”
 
 Ethics, loosely
-------
+---------------
 * The ends do not justify the means; indeed this statement and its more-common obverse are self-contradictory. There is no end, only means. The end you arrive at is entirely a process of your means.
+* In English (and perhaps other languages), “right” and “wrong” have dual meanings: “right” may mean either “morally good” or “functionally appropriate.” These meanings not fundamentally separable. In general, good people strive to do things correctly.
 
 Health
 ------
-* Two hours of vigorous physical motion and fresh air, preferably cold, will fix most minor physical, mental, and spiritual ailments.
+* Human beings were built to:
+    * Be outdoors all day long
+    * Walk long distances every day
+    * Eat cooked food, mostly fibrous plant matter, but lots of other things
+    * Spend most of their time in close proximity to people they know
+* Failing to do the above is probably responsible for most of the physical, spiritual, and mental ailments of modern America
+* Two hours of vigorous physical motion and fresh air, will fix many minor physical ailments, sniffles or aches or such, and most spiritual and mental ailments.
 * Meat isn’t murder but it isn’t very polite. People who take excessive joy in eating meat are not mentally stable.
 * Bicycles are awesome.
 
@@ -60,9 +72,10 @@ Interpersonal relationships
 ---------------------------
 * Shake hands firmly and make eye contact.
 * Avoid saying “sorry” and apologies generally. Apologies are about you, not the person wronged.
-*  Avoid saying “I promise.” Everything you say is an implicit promise.
+* Avoid saying “I promise.” Everything you say is an implicit promise.
 * Avoid excuses. These are just another way of saying “I can’t keep my word, but I’m unwilling to own the consequences.”
 * I don’t care who made this mess, everyone is obligated to clean it up together.
+* Listen more than you talk.
 
 Politics/Society
 ----------------
@@ -76,33 +89,33 @@ Environment
 * Humans, and in particular civilization, is ultimately dependent on a few fragile, complexly-interwoven systems. Our foremost concern should be preserving the smooth running of those systems.
 * American have an unhealthy wilderness obsession. In all but a few places, humans have lived within the nonhuman (i.e. “natural”) world for thousands of years. The world will become a greener, better place when we stop trying to keep people “out of” nature, and instead treat the entire world like a garden: a thing to tend and attend to.
 * Global warming and nuclear war are the preeminent existential threats to humanity and civilization.
-* Future generations will judge the people of 2014 harshly for our attitudes about:
+* Future generations will judge the people of 2023 harshly for our attitudes about:
 	* Factory farming
 	* Resource depletion
 	* Global warming
 	* Our harm to biodiversity.
 	* ... and that much of this was in service of such trivial pleasures
-* They will judge us more harshly for these things than we judge past generations for slavery, because they will suffer every day the consequences of our recklessness. 
+* They will judge us more harshly for these things than we judge past generations for their sins, because they will suffer every day the consequences of our recklessness. 
 * And they will judge us for these things for many thousands of years.
 
 
 Let’s check my privilege
 ------------------------
-Upper-middle class, straight, white, cis, male, skinny, able-bodied other than poor eyesight. Those are the privileges I was born with. A royal flush. 
+Upper-middle class, straight, white, cis, male, skinny, able-bodied other than poor eyesight, from a stable and loving family. Those are the privileges I was born with.
 
 My privileges manifest almost entirely in me not noticing them. Only once, to my knowledge, has my identity ever been an issue, when I applied for a job at Planned Parenthood. They wanted a woman for the job and they told me so. It was No Big Deal. I guess I should’ve felt some injustice (“what if they told you __to your face__ that you wouldn’t get the job because you were a __woman__!”). I got a job at Kinko’s instead where I was oblivious to the fact that I could work the graveyard shift alone in the most dangerous part of town without fearing anything worse than a holdup. I never took precautions like locking the side door or leaving one phone on speed dial to 911. Like the woman who worked graveyard shift the other nights of the week. It never occurred to me that those were the kinds of things that other people had to do.
 
-The beauty/tragedy of being upper-middle-class/straight/white/cis/male/skinny/able is that I won the lottery without realizing it. AFAIK there isn’t a secret cabal of u/s/w/c/m/s/a lottery winners twirling their mustaches and plotting to grind down Everyone Else. We just fail upward and then get mad at everyone else for not failing upward. (“How hard could it be? This is a __meritocracy__” etc.) 
+The beauty/tragedy of people with my privilege is that we just fail upward and then get mad at everyone else for not failing upward. (“How hard could it be? This is a __meritocracy__” etc.) 
 
-I doubt my father, in the I dunno 1980s, often thought of himself as belonging to any culture other than Default. Increasingly white/straight/etc. men don’t get to take their identity for granted and this is why we throw tantrums. Identity politics is work we never had to do before. But maybe we’ll gain a little space to reflect on our identities. As in: *I really like __white__ music.* I can listen to a Sonic Youth album and think, “wow, I can hear how very very __white__ these people are,” and not in a “white people be all like *this*” way or a white-supremacist way but in a genuine “this is the music of My People” way. 
+I doubt my father, in the I dunno 1980s, often thought of himself as belonging to any culture other than Default. People with privilege can no longer obliviously take this for granted, and this is why we throw tantrums. Identity politics is work we never had to do before. 
 
-The privilege I think most about is the upper-middle-class one. Maybe that’s my weakest privilege, I’m only a few paychecks away from being not-upper-middle-class. My usual line in discussions of identity politics is that class matters more than other identities. It is certainly the identity I notice first when I’m dealing with someone, usually because of their speech and dress. But maybe that’s my other privileges talking. 
+The privilege I think most about is the upper-middle-class one. I used to believe that socioeconomic class matters more than other identities. But now I think that was my other privileges talking. 
 
-The privileges I think least about are sexual orientation and able-bodiedness. In fact I had to go back and add those in to this text. I am not self-aware enough to reckon this weird omission. 
+The privileges I think least about are sexual orientation and able-bodiedness. I have only begun to notice my (cis-)gender privileges, or to note it in others.
 
-I don’t apologize for my privileges. I try not to apologize generally (see *Interpersonal Relationships,* above.) White liberal guilt is for the benefit of white liberals. My goal instead is __1.__ to shut up and listen and let others own their stories; and __2.__ call out bad behavior by others with my privileges.
+I don’t apologize for my privileges. I try not to apologize generally (see *Interpersonal Relationships,* above.) White liberal guilt is for the benefit of white liberals. My hop instead is __1.__ to shut up and listen and let others own their stories; and __2.__ call out bad behavior by others with my privileges.
 
-I’m sure I was a privileged asshole at some point in my career. In a meeting once I said “if we had the cajones to [do x]” and someone called me on it as (essentially) misogynistic. Others rolled their eyes and like a chump I apologized for what I said. I shouldn’t have apologized — I meant it when I said it, and what does an apology fix, anyway? But I should have called out the others who rolled their eyes.
+I have been a privileged asshole various points. In a meeting once I said “if we had the cajones to [do x]” and someone called me on it as (essentially) misogynistic. Others rolled their eyes and like a chump I apologized for what I said. I shouldn’t have apologized — I meant it when I said it, and what does an apology fix, anyway? But I should have called out the others who rolled their eyes: “hey, she’s right. That’s kinda sexist and I can do better.”
 
 I don’t want to Be an Ally. Being is easy. Doing is hard. 
 
