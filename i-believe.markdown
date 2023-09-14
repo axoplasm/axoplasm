@@ -56,7 +56,7 @@ Ethics, loosely
 ---------------
 * The ends do not justify the means; indeed this statement and its more-common obverse are self-contradictory. There is no end, only means. The end you arrive at is entirely a process of your means.
 * In English (and perhaps other languages), “right” and “wrong” have dual meanings: “right” may mean either “morally good” or “functionally appropriate.” These meanings are not fundamentally separable. In general, [good people strive to do things correctly](https://axoplasm.com/blog/right-and-wrong/).
-* This is subtle, but failing to make distinctions has the effect of collectively damaging the ability to discern [reality from unreality](https://axoplasm.com/blog/reality-tv/]. It is not coincidental that the worst people in the world also believe outrageous and unrealitistic things.
+* This is subtle, but failing to make distinctions has the effect of collectively damaging the ability to discern [reality from unreality](https://axoplasm.com/blog/reality-tv/). It is not coincidental that the worst people in the world also believe outrageous and unrealitistic things.
 
 Health
 ------
