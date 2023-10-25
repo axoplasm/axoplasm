@@ -92,7 +92,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 ### ca 2013–2014: *OpenSourcery Era*
 
 55. [Cognitive Atlas](https://cognitiveatlas.org)
-1. [Mindful Parenting PDX](https://mindfulparentingpdx.org)
+1. [Mindful Parenting PDX](https://web.archive.org/web/20230203103444/https://mindfulparentingpdx.org/)
 1. Blue Cross Blue Shield Foundation of Massachusetts (Delivery System Map)
 1. Exemplars Library
 1. [Exemplars.com](https://exemplars.com)
