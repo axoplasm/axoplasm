@@ -145,7 +145,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 99. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
-1. [State and Metro](http://www.stateandmetro.com)
+1. [State and Metro](https://web.archive.org/web/20171116082543/http://www.stateandmetro.com/)
 1. [Miradi](https://www.miradi.org)
 1. [MiradiShare](https://www.miradishare.org/ux/home)
 1. [Scrubjay Works](https://scrubjay.works)
@@ -169,6 +169,6 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
 1. [Preschool Marketplace](https://www.preschoolmarketplace.org)
 1. [Audubon Action Fund](https://act.audubonactionfund.org/a/donate)
-1. Welcome.US
+1. [Welcome.US](https://engage.welcome.us/a/donate)
 
 
