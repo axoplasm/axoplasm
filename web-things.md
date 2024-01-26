@@ -109,7 +109,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Southwest Regional Surgery Center
 
 
-### ca 2015–2016: *Have MacBook, Will Travel*
+### ca 2015–2016: *Peak Axoplasm*
 
 71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
@@ -141,7 +141,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Cherry Growers, Inc.
 
 
-### ca 2017–2018: *Hello Scrubjay*
+### ca 2017–2018: *Scrubjay Era*
 
 99. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
@@ -159,7 +159,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [CS For All Teachers](//www.csforallteachers.org)
 
 
-### ca 2019–now: *Mercy Corps Again*
+### ca 2019–now: *MicroMentor and Tola eras*
 
 113. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 114. [MicroMentor](//www.micromentor.org)
