@@ -19,7 +19,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 8. Hanlon Brown Design
 
 
-### ca 2000: *CyberDots Era*
+### ca 2000: *CyberDots*
 
 9. CyberSight/Nine Dots
 1. Quaker Oats (MediaNet)
@@ -43,7 +43,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Arrondi
 
 
-### ca 2002–2004: *Curiosity Era*
+### ca 2002–2004: *Curiosity*
 
 25. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
@@ -56,7 +56,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Lottery
 
 
-### ca 2005: *ID Branding Era*
+### ca 2005: *ID Branding*
 
 34. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
@@ -74,7 +74,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Printemps China
 
 
-### ca 2007–2012: *Mercy Corps Era*
+### ca 2007–2012: *Mercy Corps*
 
 44. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
@@ -89,7 +89,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 
 
-### ca 2013–2014: *OpenSourcery Era*
+### ca 2013–2014: *OpenSourcery*
 
 55. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://web.archive.org/web/20230203103444/https://mindfulparentingpdx.org/)
@@ -142,7 +142,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Cherry Growers, Inc.
 
 
-### ca 2017–2018: *Scrubjay Era*
+### ca 2017–2018: *Scrubjay*
 
 100. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
@@ -160,7 +160,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [CS For All Teachers](//www.csforallteachers.org)
 
 
-### ca 2019–now: *MicroMentor and Tola eras*
+### ca 2019–now: *MicroMentor and Tola*
 
 112. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 1. [MicroMentor](//www.micromentor.org)
