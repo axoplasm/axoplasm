@@ -125,6 +125,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Oregon Metro: Metro News](https://www.oregonmetro.gov/news)
 1. Multnomah County
 1. Integrated Arts Academy
+1. [Total Good](https://totalgood.org)
 1. [Helen Keller International](https://web.archive.org/web/20180807084624/http://hki.org/)
 1. Helen Keller Morbidity Management and Disability Prevention (MMDP) Project
 1. [National Audubon Society Donation](https://act.audubon.org/a/donate-ap)
@@ -143,7 +144,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 ### ca 2017–2018: *Scrubjay Era*
 
-99. [Stop Freaking Out](https://stopfreakingout.org)
+100. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 1. [State and Metro](https://web.archive.org/web/20171116082543/http://www.stateandmetro.com/)
 1. [Miradi](https://www.miradi.org)
@@ -161,8 +162,8 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 ### ca 2019–now: *MicroMentor and Tola eras*
 
-113. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
-114. [MicroMentor](//www.micromentor.org)
+112. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+1. [MicroMentor](//www.micromentor.org)
 1. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
 1. [Women for Women International](//www.womenforwomen.org)
 1. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
