@@ -109,7 +109,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Southwest Regional Surgery Center
 
 
-### ca 2015–2016: *Peak Axoplasm*
+### ca 2015–2016: *Axoplasm + Stagecoach*
 
 71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
