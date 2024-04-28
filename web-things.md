@@ -135,7 +135,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Navex Global](https://www.navexglobal.com)
 1. [The Intertwine](https://www.theintertwine.org)
 1. [Daycation](https://www.theintertwine.org/projects/daycation-mobile-app)
-1. [CBfish.org](//cbfish.org)
+1. [CBfish.org](https://web.archive.org/web/20170711134249/https://www.cbfish.org/)
 1. [Columbia Habitat Monitoring Program](https://www.champmonitoring.org)
 1. [Acumen](https://acumen.org)
 1. Burlington Friends of Education
