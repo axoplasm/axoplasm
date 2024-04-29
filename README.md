@@ -2,7 +2,7 @@ axoplasm is Paul Souders
 ========================
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
-* ✳️  [axoplasm.com](//axoplasm.com)
+* ✳️ [axoplasm.com](//axoplasm.com)
 * 💼 [scrubjay.works](//scrubjay.works/)
 * 🗻 [CanYouSeeMtHoodFromCouncilCrest.com](//canyouseemthoodfromcouncilcrest.com/)
 * 🚲 [strava.com/athletes/56063](//strava.com/athletes/56063)
@@ -13,13 +13,14 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 
 Current & recent customer projects
 ----------------------------------
-* [Mercy Corps — TolaActivity](https://tola-activity.mercycorps.org)
-* [Women for Women International](https://www.womenforwomen.org)
-* [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
+* [Disaster Resilience Learning Network](//drln.org)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [Preschool Marketplace](https://preschoolmarketplace.org)
+* [Mercy Corps — TolaActivity](https://tola-activity.mercycorps.org)
 * [MicroMentor](https://www.micromentor.org)
+* [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
+* [Women for Women International](https://www.womenforwomen.org)
 
 *(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
 
