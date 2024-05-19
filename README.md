@@ -16,6 +16,7 @@ Current & recent customer projects
 * [Disaster Resilience Learning Network](//drln.org)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
+* [Global Solar Council](//globalsolarcouncil.org)
 * [Preschool Marketplace](https://preschoolmarketplace.org)
 * [Mercy Corps — TolaActivity](https://tola-activity.mercycorps.org)
 * [MicroMentor](https://www.micromentor.org)
