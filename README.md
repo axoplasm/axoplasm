@@ -19,7 +19,6 @@ Current & recent customer projects
 * [Global Solar Council](//globalsolarcouncil.org)
 * [Preschool Marketplace](https://preschoolmarketplace.org)
 * [Mercy Corps — TolaActivity](https://tola-activity.mercycorps.org)
-* [MicroMentor](https://www.micromentor.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
 * [Women for Women International](https://www.womenforwomen.org)
 
