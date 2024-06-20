@@ -20,7 +20,6 @@ Current & recent customer projects
 * [Preschool Marketplace](https://preschoolmarketplace.org)
 * [Mercy Corps — Tola](https://toladata.mercycorps.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
-* [Women for Women International](https://www.womenforwomen.org)
 
 *(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
 
