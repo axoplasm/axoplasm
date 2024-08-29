@@ -1,5 +1,5 @@
-All my jobs ever
-----------------
+All my jobs ever <small>(that I can remember)</small>
+--------------------------------------
 
 *Appendix to my [résumé](https://github.com/axoplasm/axoplasm/blob/main/resume.markdown).*
 
