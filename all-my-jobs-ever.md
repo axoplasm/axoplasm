@@ -30,7 +30,7 @@ Key:
 * 🗿 **1995–1996:** Collections Assistant, Oregon State Museum of Anthropology, Eugene OR USA
 * 🗿 **1996–1997:** Graduate teaching fellow and collections assistant, University of Oregon Department of Anthropology and Oregon State Museum of Anthropology, Eugene OR USA
 * 🗿 **1997:** Archeological field director, Ethnoscience, Billings MT USA
-* 🚫 **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
+* 📈  **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
 * 🗿 **1998–1999:** Archaeologist, Statistical Research Inc., Redlands CA USA
 * ⭐️ **1999–2017:** Freelance web developer/designer and Internet generalist
 * 🚫 **1999:** Office temp, Northwest Temps *(I think…)*, Portland OR USA
