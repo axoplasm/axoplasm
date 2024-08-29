@@ -6,14 +6,12 @@ All my jobs ever (that I can remember)
 Key:
 ----
 
-🚫 = Never appeared on a résumé
+* 🚫 = Never appeared on a résumé
+* 📈 = On résumés for a year or two until I upleveled jobs
+* 🗿 = Listed individually only while I was practicing archaeology, thereafter smooshed into a “1992–1999: Archaeologist” or similar
+* ⭐️ = Still on my résumé
 
-📈 = On résumés for a year or two until I upleveled jobs
-
-🗿 = Listed individually only while I was practicing archaeology, thereafter smooshed into a “1992–1999: Archaeologist” or similar
-
-⭐️ = Still on my résumé
-
+-----
 
 * 🚫 **1984–1986:** Newspaper carrier, Lincoln Journal-Star, Lincoln NE USA
 * 🚫 **1987–1988:** Grill, prep and fry cook, Wendy’s, Lincoln NE USA
