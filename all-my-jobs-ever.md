@@ -1,7 +1,7 @@
 All my jobs ever (that I can remember)
 ======================================
 
-*Appendix to my [résumé](https://github.com/axoplasm/axoplasm/blob/main/resume.markdown).*
+*Appendix to my [résumé](https://github.com/axoplasm/axoplasm/blob/main/resume.markdown). See also [this huge list of every Internet project I can remember working on](https://github.com/axoplasm/axoplasm/blob/main/web-things.md)*
 
 Key:
 ----
