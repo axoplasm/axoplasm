@@ -12,8 +12,8 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 * 🐘 [pdx.social/@axoplasm](//pdx.social/@axoplasm)
 
 
-Current & recent customer projects
-----------------------------------
+Current projects
+----------------
 * [Disaster Resilience Learning Network](//drln.org)
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
