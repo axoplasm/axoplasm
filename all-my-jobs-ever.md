@@ -16,7 +16,7 @@ Key:
 * 🚫 **1984–1986:** Newspaper carrier, Lincoln Journal-Star, Lincoln NE USA
 * 🚫 **1987–1988:** Grill, prep and fry cook, Wendy’s, Lincoln NE USA
 * 🚫 **1988–1989:** Busser, dishwasher and prep cook, Coco’s Restaurant, Lincoln NE USA
-* 🚫 **1989:** **Grocery Clerk, Super Saver Grocery, Lincoln NE USA
+* 🚫 **1989:** Grocery Clerk, Super Saver Grocery, Lincoln NE USA
 * 📈 **1990–1991:** Library Clerk, University of Nebraska Love Library, Lincoln NE USA
 * 📈 **1991–1992:** Resident assistant, University of Nebraska Schramm Hall, Lincoln NE USA
 * 🗿 **1992–1993:** Archaeology lab and field assistant, Nebraska State Museum, Lincoln NE USA
