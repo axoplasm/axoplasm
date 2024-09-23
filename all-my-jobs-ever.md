@@ -21,6 +21,7 @@ Key:
 * 📈 **1991–1992:** Resident assistant, University of Nebraska Schramm Hall, Lincoln NE USA
 * 🗿 **1992–1993:** Archaeology lab and field assistant, Nebraska State Museum, Lincoln NE USA
 * 📈 **1993–1994:** Key operator and cashier, Kinko’s, Lincoln NE USA
+* 🚫 **1994:** Phone canvasser, *a leftish phone canvassing company whose name I forget,* Lincoln NE USA
 * 🗿 **1994:** Advanced archaeological assistant, University of North Dakota Lake Ilo Project, Killdeer ND USA
 * 🗿 **1994:** Field archaeologist, Mariah Associates, Austin TX USA and Laramie WY USA
 * 🚫 **1994–1995:** Anthropology tutor, University of Nebraska Athletics Department, Lincoln NE USA
@@ -30,6 +31,7 @@ Key:
 * 🗿 **1995–1996:** Collections assistant, Oregon State Museum of Anthropology, Eugene OR USA
 * 🗿 **1996–1997:** Graduate teaching fellow and senior collections assistant, University of Oregon Department of Anthropology and Oregon State Museum of Anthropology, Eugene OR USA
 * 🗿 **1997:** Archaeology field director, Ethnoscience, Billings MT USA
+* 🚫 **1998:** Inbound call center temp, *another temp agency whose name I forget*, Milwaukie OR USA
 * 📈  **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
 * 🗿 **1998–1999:** Archaeologist, Statistical Research Inc., Redlands CA USA
 * ⭐️ **1999–2017:** Freelance web developer/designer and Internet generalist
