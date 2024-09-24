@@ -1,13 +1,13 @@
-Paul Souders 
-============
+Résumé: Paul Souders 
+====================
 
-*I am a multi-talented user experience designer, developer, and product/project manager delivering value for socially-responsible organizations. My skillset dances the four corners of web development, product design, visual design, and user experience design.*
+*I am a multi-talented developer, designer, and product/project manager delivering value for socially-responsible organizations. My breadth of knowledge is a function of being __daring enough to try__ and __humble enough to learn.__*
+
 
 * [scrubjay.works](//scrubjay.works)
-* [axoplasm.com](//axoplasm.com)
+* [axoplasm.com/resume](//axoplasm.com/resume)
 * [linkedin.com/in/axoplasm](//www.linkedin.com/in/axoplasm/)
 * [github.com/axoplasm](//github.com/axoplasm/)
-
 
 
 Selected work experience
@@ -15,17 +15,22 @@ Selected work experience
 
 ### 2017–Present: __Principal, Scrubjay__
 
-[Scrubjay](//scrubjay.works) is a generalist digital workshop. We build digital experiences for socially-responsible organizations. Our current client roster includes [Mercy Corps](//mercycorps.org), [Fat Pencil Studio](//fatpencilstudio.com), [United Way of the Columbia-Willamette](//unitedway-pdx.org), [Preschool Marketplace](//preschoolmarketplace.org), [Early Learning Multnomah](//earlylearningmultnomah.org), and [Women for Women International](//womenforwomen.org).
+[Scrubjay](//scrubjay.works) is a generalist digital workshop. We build digital experiences for socially-responsible organizations. Our current client roster includes [Mercy Corps](//mercycorps.org), [Fat Pencil Studio](//fatpencilstudio.com), [United Way of the Columbia-Willamette](//unitedway-pdx.org), [Preschool Marketplace](//preschoolmarketplace.org), [Early Learning Multnomah](//earlylearningmultnomah.org), and [Women for Women International](//womenforwomen.org). Across all our projects: I assess business needs, collect project requirements, generate estimates, build project plans, conduct brainstorms, write content, edit photography, design logos, provision and maintain infrastructure, connect to third-party services, design technical architectures, write and test front- and back-end code, collaborate with subcontractors and other contributors…anything and everything needed to build a beautiful web property and keep it healthy. 
 
 
-### 2019–2022: __Design Lead and Engineering Manager, MicroMentor__
+### 2018–Present: __Senior Engineer, TolaData (Mercy Corps)__
+
+ I am a core contributor to TolaData, Mercy Corps’ internal indicator and results tracking platform. In 2018, I worked with the User Experience designer to clean up the visual design from a legacy system, and to implement a slew of new features. I overhauled the front-end display code to ready it for asynchronous interactivity. I contribute front-end and back-end code, participate in code reviews, lead code refactor/rearchitecture projects, and mentor junior developers. I work with the Product Owner and the rest of the engineering team to refine the backlog and plan product releases. I manage the project’s integration with third-party translation systems. 
+
+
+### 2019–2022: __Design Lead and Engineering Manager, MicroMentor (Mercy Corps)__
 
 I led visual design and user experience design for [MicroMentor](//micromentor.org), a global platform in five languages connecting small business entrepreneurs with mentors around the world. I spearheaded and executed a 2019 redesign and redevelopment of the platform, dovetailing with an organizational strategy to own the product in-house from an external vendor. I devised and managed our project management and engineering practices. I worked closely with business owners, community members, and stakeholders to design an experience that served several diverse communities in five languages on six continents.
 
 
 ### 1999–2017: __Freelance web designer, UX designer, developer, and digital strategist__
 
-Prior to forming Scrubjay in 2017, I maintained a successful freelance business, variously as either a side gig or main gig. I provided branding, web design, mobile app design, user experience design, and web development services to countless (hundreds of?) organizations. 
+I provided branding, web design, mobile app design, user experience design, and web development services to countless ([hundreds of?](//github.com/axoplasm/axoplasm/blob/main/web-things.md)) organizations. 
 
 
 ### 2013–2014: __Director of Design, OpenSourcery__
@@ -60,7 +65,7 @@ At my first-ever web design job after changing careers from Archaeology, I hand-
 
 ### 1992–1999: Archaeologist
 
-I have a Master’s degree in anthropology and practiced archaeology for most of the 1990s throughout the western United States. I haven’t been in that world for a long time but I love to tell stories about it.
+I have a Master’s degree in anthropology and practiced archaeology for most of the 1990s throughout the western United States.
 
 
 Proficiencies
@@ -94,8 +99,8 @@ University of Oreogn, 1997
 University of Nebraska, 1993
 
 
-Technical skills
-----------------
+Toolset
+-------
 *Robots love long lists like this.*
 
 ```md
