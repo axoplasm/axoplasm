@@ -18,12 +18,10 @@ Key:
 * 🚫 **1987–1988:** Grill, prep and fry cook, Wendy’s, Lincoln NE USA
 * 🚫 **1988–1989:** Busser, dishwasher and prep cook, Coco’s Restaurant, Lincoln NE USA
 * 🚫 **1989:** Grocery Clerk, Super Saver Grocery, Lincoln NE USA
-
 <!-- ### College -->
 * 📈 **1990–1991:** Library Clerk, University of Nebraska Love Library, Lincoln NE USA
 * 📈 **1991–1992:** Resident assistant, University of Nebraska Schramm Hall, Lincoln NE USA
 * 🗿 **1992–1993:** Archaeology lab and field assistant, Nebraska State Museum, Lincoln NE USA
-
 <!-- ### My 20s -->
 * 📈 **1993–1994:** Key operator and cashier, Kinko’s, Lincoln NE USA
 * 🚫 **1994:** Phone canvasser, *a leftish phone canvassing company whose name I forget,* Lincoln NE USA
@@ -37,9 +35,8 @@ Key:
 * 🗿 **1996–1997:** Graduate teaching fellow and senior collections assistant, University of Oregon Department of Anthropology and Oregon State Museum of Anthropology, Eugene OR USA
 * 🗿 **1997:** Archaeology field director, Ethnoscience, Billings MT USA
 * 🚫 **1998:** Inbound call center temp, *another temp agency whose name I forget*, Milwaukie OR USA
-* 📈  **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
+* 📈 **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
 * 🗿 **1998–1999:** Archaeologist, Statistical Research Inc., Redlands CA USA
-
 <!-- ### Ever since -->
 * ⭐️ **1999–2017:** Freelance web developer/designer and Internet generalist
 * 🚫 **1999:** Office temp, Northwest Temps *(I think…)*, Portland OR USA
