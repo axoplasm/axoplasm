@@ -7,7 +7,7 @@ __I do not represent the work below as “my” work.__ I did *something*, for e
 Weird thought: I’m this total journeyperson designer who has absolutely no flashy famous things to my name and yet __uncounted millions__ of people have seen my work?
 
 
-### ca 1998–1999: *The Eocene*
+### 1999
 
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 1. Tektronix
@@ -19,7 +19,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 8. Hanlon Brown Design
 
 
-### ca 2000: *CyberDots*
+### 2000
 
 9. CyberSight/Nine Dots
 1. Quaker Oats (MediaNet)
@@ -31,7 +31,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [NW Natural](https://web.archive.org/web/20020802001016/http://www.nwnatural.com/home/home.asp)
 
 
-### ca 2001: *DotBust*
+### 2001
 
 17. Techtracker
 1. VersionTracker
@@ -43,7 +43,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Arrondi
 
 
-### ca 2002–2004: *Curiosity*
+### 2002–2004
 
 25. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 1. HP (Newsgram)
@@ -56,7 +56,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Lottery
 
 
-### ca 2005: *ID Branding*
+### 2005
 
 34. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 1. 500lb
@@ -65,7 +65,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Windows Mobile
 
 
-### ca 2006: *China*
+### 2006
 
 39. Xiamen International School
 1. Adrian and Emily
@@ -74,7 +74,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Printemps China
 
 
-### ca 2007–2012: *Mercy Corps*
+### 2007–2012
 
 44. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 1. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
@@ -89,7 +89,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [Premarriage Awareness Inventory](https://web.archive.org/web/20110128113406/http://premarriageawareness.com/)
 
 
-### ca 2013–2014: *OpenSourcery*
+### ca 2013–2014
 
 55. [Cognitive Atlas](https://cognitiveatlas.org)
 1. [Mindful Parenting PDX](https://web.archive.org/web/20230203103444/https://mindfulparentingpdx.org/)
@@ -109,7 +109,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Southwest Regional Surgery Center
 
 
-### ca 2015–2016: *Axoplasm + Stagecoach*
+### 2015–2016
 
 71. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 1. UNICEF Inspired Gifts
@@ -142,7 +142,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. Oregon Cherry Growers, Inc.
 
 
-### ca 2017–2018: *Scrubjay*
+### 2017
 
 100. [Stop Freaking Out](https://stopfreakingout.org)
 1. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
@@ -157,14 +157,18 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 1. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
 1. [Northwest PowerPool](https://www.nwpp.org)
 1. [Fat Pencil Studio](//fatpencilstudio.com/)
-1. [CS For All Teachers](//www.csforallteachers.org)
 
 
-### ca 2019–now: *MicroMentor and Tola*
+### 2018–2020
 
-112. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
+111. [CS For All Teachers](//www.csforallteachers.org)
+1. Mercy Corps [TolaActivity](//tola-activity.mercycorps.org)
 1. [MicroMentor](//www.micromentor.org)
 1. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
+
+
+### 2022–now
+
 1. [Women for Women International](//www.womenforwomen.org)
 1. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
 1. [Care Solace — Town of Chelmsford](https://caresolace.com/site/chelmsford-ma)
