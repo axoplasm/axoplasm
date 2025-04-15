@@ -13,6 +13,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 2. Tektronix
 3. [Archaeological Investigations Northwest](https://web.archive.org/web/19991230124111/http://www.ainw.com/)
 4. [Headbone Interactive](https://web.archive.org/web/20000301003311/http://www.headbone.com/)
+5. CBS Kids
 6. Discovery Channel Kids
 7. Fleet Bank Kids
 8. General Mills (Froot Loops)
