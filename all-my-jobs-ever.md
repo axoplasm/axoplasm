@@ -50,6 +50,6 @@ Key:
 * ⭐️ **2013–2014:** Director of design, OpenSourcery, Portland OR USA
 * ⭐️ **2017–2024:** Principal, Scrubjay Works LLC, Portland OR USA
 * ⭐️ **2019–2022:** Web designer/developer, project manager, design and engineering manager, Mercy Corps MicroMentor, Portland OR USA *(with Scrubjay)*
-* ⭐️ **2022–2024:** Senior engineer, Mercy Corps TolaData, Portland OR USA
+* ⭐️ **2022–2025:** Senior engineer, Mercy Corps TolaData, Portland OR USA
 
 
