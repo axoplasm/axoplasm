@@ -8,6 +8,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 1999
+*Some projects with Headbone Interactive*
 
 1. [Ecoartspace](https://web.archive.org/web/20020327235236/http://www.ecoartspace.org/)
 2. Tektronix
@@ -21,6 +22,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2000
+*Projects with CyberSight/Nine Dots*
 
 10. CyberSight/Nine Dots
 11. Quaker Oats (MediaNet)
@@ -33,6 +35,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2001
+*Some projects with TechTracker*
 
 18. Techtracker
 19. VersionTracker
@@ -45,6 +48,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2002–2004
+*Projects with Curiosity Group*
 
 26. [Curiosity Group](https://web.archive.org/web/20040604110612/http://curiositygroup.com/)
 27. HP (Newsgram)
@@ -58,6 +62,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2005
+*Some projects with ID Branding*
 
 35. [StyleMetrics](https://web.archive.org/web/20081006220735/http://www.stylemetrics.com:80/)
 36. 500lb
@@ -67,6 +72,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2006
+*Some projects with Ports International*
 
 40. Xiamen International School
 41. Adrian and Emily
@@ -76,6 +82,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2007–2012
+*Some projects with Mercy Corps*
 
 45. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 46. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
@@ -91,6 +98,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### ca 2013–2014
+*Some projects with OpenSourcery, Amani Global, Stagecoach Digital, and Squishymedia*
 
 56. [Cognitive Atlas](https://cognitiveatlas.org)
 57. [Mindful Parenting PDX](https://web.archive.org/web/20230203103444/https://mindfulparentingpdx.org/)
@@ -111,6 +119,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2015–2016
+*Some projects with Amani Global, Stagecoach Digital, and Sitka Technology*
 
 72. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 73. UNICEF Inspired Gifts
@@ -144,6 +153,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 
 
 ### 2017
+*Some projects with Squishymedia*
 
 101. [Stop Freaking Out](https://stopfreakingout.org)
 102. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
@@ -158,17 +168,18 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 111. [March of Dimes Gift Guide](https://gifts.marchofdimes.org)
 112. [Northwest PowerPool](https://www.nwpp.org)
 113. [Fat Pencil Studio](//fatpencilstudio.com/)
+114. [CS For All Teachers](//www.csforallteachers.org)
 
 
 ### 2018–2020
 
-114. [CS For All Teachers](//www.csforallteachers.org)
 115. Mercy Corps [TolaData](//tola-activity.mercycorps.org)
 116. [MicroMentor](//www.micromentor.org)
 117. [PDX Assist](https://web.archive.org/web/20210620222716/https://pdxassist.com/)
 
 
 ### 2022–now
+*Some projects with Stagecoach Digital*
 
 118. [Women for Women International](//www.womenforwomen.org)
 119. Women for Women International: [Invest in the Power of Women](http://www.womenforwomen.org/powerofwomen/)
