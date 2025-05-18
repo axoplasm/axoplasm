@@ -29,5 +29,6 @@ Professional interests
 * [Doing well by doing good](https://axoplasm.com/web-log/its-ok-do-well-while-doing-good/)
 * [Technique vs. technology](https://axoplasm.com/web-log/technique-and-technology/)
 * [That trope where the MVP is a skateboard, not a car with one wheel](https://axoplasm.com/web-log/django-vs-drupal/)
+* [The monetary value of communication](https://www.axoplasm.com/blog/communication-is-80-of-the-project-budget/)
 * [Project management as “glue”](https://www.axoplasm.com/blog/the-glue/)
 * [The creative virtue of production constraints](https://www.axoplasm.com/blog/production-constraints-are-design-constraints/)
