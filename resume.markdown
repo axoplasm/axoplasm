@@ -39,7 +39,7 @@ Selected work experience
 
 ### 2019–2022: __Design Lead and Engineering Manager, MicroMentor__
 
-Spearheaded and executed a 2019 redesign/redevelopment of [MicroMentor](//micromentor.org), a global platform in five languages connecting small business entrepreneurs with mentors. Led combined product, design, & engineering team.
+Spearheaded and executed a redesign/redevelopment of [MicroMentor](//micromentor.org), a global platform in five languages connecting small business entrepreneurs with mentors. Led combined product, design, & engineering team.
 
 ### 1999–2017: __Freelance designer/developer/strategist__
 
