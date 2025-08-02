@@ -2,10 +2,12 @@ axoplasm is Paul Souders
 ========================
 I have been building web things since [1995](https://web.archive.org/web/19970218080413/http://darkwing.uoregon.edu/~psouders/).
 
-* ✳️ [axoplasm.com](//axoplasm.com)
-* 💼 [scrubjay.works](//scrubjay.works/)
-* 🗻 [CanYouSeeMtHoodFromCouncilCrest.com](//canyouseemthoodfromcouncilcrest.com/)
+* ✳️ [Axoplasm.com](//axoplasm.com)
+* 👖 [Long form résumé](//www.axoplasm.com/resume/)
+* 🩳 [Short form résumé](//github.com/axoplasm/axoplasm/blob/main/resume.markdown)
+* 💼 [Scrubjay.works](//scrubjay.works/)
 * 👔 [linkedin.com/in/axoplasm](//linkedin.com/in/axoplasm/)
+* 🗻 [CanYouSeeMtHoodFromCouncilCrest.com](//canyouseemthoodfromcouncilcrest.com/)
 
 
 Current projects
