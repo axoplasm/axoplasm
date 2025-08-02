@@ -14,8 +14,9 @@ Current projects
 * [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [Global Solar Council](//globalsolarcouncil.org)
-* [Preschool Marketplace](https://preschoolmarketplace.org)
+* [McKenna McKee](//mckenna.bike)
 * [Mercy Corps — Tola](https://toladata.mercycorps.org)
+* [Preschool Marketplace](https://preschoolmarketplace.org)
 * [United Way of the Columbia-Willamette](http://unitedway-pdx.org/)
 
 *(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
