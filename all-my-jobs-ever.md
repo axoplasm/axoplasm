@@ -35,7 +35,7 @@ Key:
 * 🚫 **1998:** Inbound call center temp, *another temp agency whose name I forget*, Milwaukie OR USA
 * 📈 **1998:** Educator, Oregon Museum of Science and Industry, Portland OR USA
 * 🪏 **1998–1999:** Archaeologist, Statistical Research Inc., Redlands CA USA
-* ⭐️ **1999–2017:** Freelance web developer/designer and Internet generalist
+* ⭐️ **1999–2017:** Freelance designer and web developer
 * 🚫 **1999:** Office temp, Northwest Temps *(I think…)*, Portland OR USA
 * 📈 **1999:** Web developer/designer (temp), Aquent, Portland OR USA
 * ⭐️ **1999–2000:** Designer and animator, Headbone Interactive, Seattle WA USA
@@ -49,7 +49,7 @@ Key:
 * ⭐️ **2007–2013:** Senior web designer, Mercy Corps, Portland OR USA
 * ⭐️ **2013–2014:** Director of design, OpenSourcery, Portland OR USA
 * ⭐️ **2017–2024:** Principal, Scrubjay Works LLC, Portland OR USA
-* ⭐️ **2019–2022:** Web designer/developer, project manager, design and engineering manager, Mercy Corps MicroMentor, Portland OR USA *(with Scrubjay)*
+* ⭐️ **2019–2022:** Designer/developer, project manager, design and engineering manager, Mercy Corps MicroMentor, Portland OR USA *(with Scrubjay)*
 * ⭐️ **2022–2025:** Senior engineer, Data Services, Mercy Corps, Portland OR USA
 
 
