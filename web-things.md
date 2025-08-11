@@ -118,8 +118,8 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 71. Southwest Regional Surgery Center
 
 
-### 2015–2016
-*Some projects with Amani Global, Stagecoach Digital, and Sitka Technology*
+### 2015–2017
+*Some projects with Amani Global, OMBU, Stagecoach Digital, Maxwell, and Sitka Technology*
 
 72. [United Way of the Columbia Willamette](https://www.unitedway-pdx.org)
 73. UNICEF Inspired Gifts
@@ -150,11 +150,6 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 98. [Acumen](https://acumen.org)
 99. Burlington Friends of Education
 100. Oregon Cherry Growers, Inc.
-
-
-### 2017
-*Some projects with Squishymedia*
-
 101. [Stop Freaking Out](https://stopfreakingout.org)
 102. [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
 103. [State and Metro](https://web.archive.org/web/20171116082543/http://www.stateandmetro.com/)
