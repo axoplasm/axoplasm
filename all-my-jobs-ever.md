@@ -40,7 +40,7 @@ Key:
 * 📈 **1999:** Web developer/designer (temp), Aquent, Portland OR USA
 * ⭐️ **1999–2000:** Designer and animator, Headbone Interactive, Seattle WA USA
 * ⭐️ **2000–2001:** Designer/developer, CyberSight/NineDots, Portland OR USA
-* 📈 **2001:** Creative director (official title; in reality: multiple-media designer), TechTracker, Portland OR USA
+* 📈 **2001:** Creative director/multiple-media designer, TechTracker, Portland OR USA
 * 🚫 **2001–2002:** Web developer (temp), TripleTeam, Portland OR USA
 * ⭐️ **2002–2005:** Art director, Curiosity, Portland OR USA
 * ⭐️ **2005–2006:** Senior usability designer, ID Branding, Portland OR USA
