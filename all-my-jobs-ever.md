@@ -48,7 +48,7 @@ Key:
 * ⭐️ **2007:** Web architect and team manager, Ports International, Xiamen Fujian PRC
 * ⭐️ **2007–2013:** Senior web designer, Mercy Corps, Portland OR USA
 * ⭐️ **2013–2014:** Director of design, OpenSourcery, Portland OR USA
-* ⭐️ **2017–2024:** Principal, Scrubjay Works LLC, Portland OR USA
+* ⭐️ **2017–2025:** Principal, Scrubjay Works LLC, Portland OR USA
 * ⭐️ **2019–2022:** Designer/developer, project manager, design and engineering manager, Mercy Corps MicroMentor, Portland OR USA *(with Scrubjay)*
 * ⭐️ **2022–2025:** Senior engineer, Data Services, Mercy Corps, Portland OR USA
 

@@ -76,7 +76,7 @@ Designed websites, ads, illustrations, and game prototypes for kids‘ web porta
 
 ### 1992–1999: Archaeologist
 
-Practiced archaeology at sites throughout the western United States.
+Practiced archaeology throughout the western United States.
 
 
 Education
