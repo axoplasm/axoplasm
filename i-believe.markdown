@@ -23,7 +23,8 @@ My core principles
 	* random
 	* without purpose
 * All things and all people have intrinsic meaning and worth beyond their “usefulness” to anyone or anything else
-* There is no fundamental distinction between doing something (morally) good and doing something well
+	* Said meaning and worth are unknown, and unknowable
+* There is no fundamental distinction between doing something (morally) good and doing something well. 
 * “Evil” exists but is transient and contingent
     * Its major contingency arises when “good” people look away
     * …or choose expediency over quality
@@ -32,16 +33,24 @@ My core principles
 
 Religion/Sprituality
 --------------------
-* [Anything anyone says about God is wrong](https://axoplasm.com/blog/i-used-to-think-about-this-all-the-time/), including this.
+* [Anything anyone says about God is wrong](https://axoplasm.com/blog/i-used-to-think-about-this-all-the-time/), *including this.*
 * Don’t confuse the finger pointing at the moon with the moon.
 * Souls arise gradually as a process of interacting with the world, and defining oneself in opposition to it.
 * Personality and memory are erased at the moment of death; there will be no “afterlife” in which I perceive myself or my soul.
 * But the soul may contain other components, perhaps collectively described as “spirit,” that is/are eternal and transferred between living beings and other energetic systems. 
+	* This aspect of the soul has no relationship to Ego. We can perceive it in ourselves only to the degree we can dampen our Ego.
 * Animals might have souls but humans might not be able comprehend them.
 * Always the same river, never the same water.
 * God “exists” in the same way money “exists.”
-* I was never not an atheist like this. I never felt an absence of anything (a “God shaped hole”); it’s just that God is simply unnecessary to my understanding of the world. The (non)presence of God is irrelevant to me.
 	* More accurately: of all the qualities of God (omnipotence, omnibenevolence, anthropomorphism, etc.) which we might want to discuss, “existence” is the least salient.
+	* I *suspect* that there is a concrete disproof for any concrete description of God’s qualities. If we can accurately describe God as having a certain quality, that description can be disproven.
+* I was never not an atheist like this. I never felt an absence of anything (a “God shaped hole”); it’s just that God is simply unnecessary to my understanding of the world. The (non)presence of God is irrelevant to me.
+* I have a small collection of animistic beliefs that are actually __supersitions__:
+	* Places retain a [psychic fingerprint](https://axoplasm.com/blog/the-original-stumptown-coffee/) of the activities that occur there
+	* Similarly, powerful souls leave a psychic fingerprint on other souls
+		* Simply being near good people can make you a better person
+		* Simply being near [bad people](https://axoplasm.com/blog/gosh-its-having-no-soul-makes-everything-awful/) can make you a worse person
+	* Tools have a “desire” to be used in certain ways. (Think of this as a soft refutation of “tools are morally neutral.”) The gun desires to kill. The bicycle desires to travel. The pot desires to feed people. 
 
 Human Nature
 ------------
