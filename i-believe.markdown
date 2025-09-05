@@ -22,6 +22,10 @@ My core principles
 	* incomprehensibly vast
 	* random
 	* without purpose
+* There is an external reality (let’s call it “objective”) that is knowable to some degree
+    * we can know to what degree we are wrong about it
+    * our wrongness does not change how it actually behaves (“like gravity is a theory”)
+* “Reality” will always win. __Always__. The longer we deny reality, the harsher it will be when it lands
 * All things and all people have intrinsic meaning and worth beyond their “usefulness” to anyone or anything else
 	* Said meaning and worth are unknown, and unknowable
 * There is no fundamental distinction between doing something (morally) good and doing something well. 
