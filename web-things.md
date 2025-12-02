@@ -87,7 +87,7 @@ Weird thought: I’m this total journeyperson designer who has absolutely no fla
 45. [Mercy Corps](https://web.archive.org/web/20130406205755/http://www.mercycorps.org/)
 46. [The Film Connection](https://web.archive.org/web/20080724150510/http://www.thefilmconnection.org/)
 47. Global Citizen Corps
-48. [MicroMentor](https://micromentor.org)
+48. [MicroMentor]([https://micromentor.org](https://web.archive.org/web/20111008072116/http://www.micromentor.org/))
 49. [Global Envision](https://web.archive.org/web/20110724022708/http://www.globalenvision.org/)
 50. Mercy Corps One Table
 51. Mercy Corps Action Center
