@@ -90,3 +90,57 @@ University of Oreogn, 1997
 ### BA, Anthropology
 
 University of Nebraska, 1993
+
+
+Tools
+-----
+### Front-end UI development
+- HTML
+- CSS & SASS
+- Vanilla JavaScript
+- Zurb Foundation
+- Bootstrap
+- jQuery
+
+### Back-end engineering
+- Python
+- Django
+- Django REST Framework
+- GraphQL
+- PostgreSQL
+- MySQL
+
+### Front-end engineering
+- React with MobX
+- MapBox
+- HTMX
+- Svelte
+
+### Infrastructure & operations
+- Ubuntu VMs
+- Digital Ocean App Platform
+- Sentry.io
+- Pantheon
+- Docker
+- Lando
+- Azure Cloud
+
+### Static site generators & content management systems
+- Django Wagtail
+- 11ty
+- Pelican
+- Drupal
+
+### Visual & UX design
+- Sketch
+- Omnigraffle
+- Figma
+- *[any graphics editing tool, probably]*
+
+### Project/Product management
+- GitHub Issues
+- CrowdIn
+- Shortcut
+- Trello
+- Jira
+- Microsoft Planner
