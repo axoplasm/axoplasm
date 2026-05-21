@@ -13,11 +13,12 @@ I have been building web things since [1995](https://web.archive.org/web/1997021
 Current projects
 ----------------
 * [Disaster Resilience Learning Network](//drln.org)
-* [Early Learning Multnomah](https://www.earlylearningmultnomah.org)
+* [Early Learning Multnomah](//www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [McKenna McKee](//mckenna.bike)
-* [Mercy Corps — Tola](https://toladata.mercycorps.org)
-* [Preschool Marketplace](https://preschoolmarketplace.org)
+* [Mercy Corps — Tola](//toladata.mercycorps.org)
+* [Preschool Marketplace](//preschoolmarketplace.org)
+* [Y-SCENES](//y-scenes.org)
 
 *(See also [this enormous list](https://github.com/axoplasm/axoplasm/blob/main/web-things.md) of every initiative I can recall working on.)*
 
