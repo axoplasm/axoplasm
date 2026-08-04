@@ -3,9 +3,12 @@ My Portland office neighorhoods
 
 For about 20 years I [commuted](https://axoplasm.com/blog/search/?search=commute) to/from inner Portland neighborhoods. Mostly by bike but [sometimes](https://axoplasm.com/blog/drive-work/) [not](https://axoplasm.com/blog/the-meditative-properties-of-commuting/). These were my Second Neighborhoods, I felt as at home there as I did in my actual home neighborhood. I had regular haunts: bike shops, bookstores, food carts, bars.
 
+And for a long while since 2013 or so, I have worked several days a week from [home](https://axoplasm.com/blog/my-expedient-walden/), so for a long time — more than a decade now — my home neighborhood is also my work neighborhood.
+
 I had a few gigs either as a temp or freelancer in Beaverton. Those places never felt neighborhoodly to me. And for a year (2006–2007) I lived (and worked) in [China](https://axoplasm.com/blog/search/?search=xiamen), which was a whole different kind of neighborhoodly.
 
 I still have an office in Old Town in the Mercy Corps building, but seldom go in. I’m a stranger in that neighborhood now.
+
 
 * **2000-01 — 2001-04:** Old Town (NW Natural bldg)
 * **2001–04 — 2001-07:** Old Town/Downtown (Yamhill)
