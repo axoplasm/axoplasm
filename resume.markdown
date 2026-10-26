@@ -33,9 +33,9 @@ Selected work experience
 
 [Scrubjay](//scrubjay.works) is a generalist digital workshop. We design, build, feed, and maintain digital experiences for socially-responsible organizations. 
 
-### 2018–Present: __Senior Engineer, Data Services, Mercy Corps__
+### 2018–Present: __Senior Engineer, Data Services, Prosper Global__
 
- Core contributor to and principal architect of Mercy Corps’ internal indicator and results tracking platform, and other systems. 
+ Core contributor to and principal architect of Prosper Global’s internal indicator and results tracking platform, and other systems. 
 
 ### 2019–2022: __Design Lead and Engineering Manager, MicroMentor__
 
