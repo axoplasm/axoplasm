@@ -16,7 +16,7 @@ Current projects
 * [Early Learning Multnomah](//www.earlylearningmultnomah.org)
 * [Fat Pencil Studio](https://fatpencilstudio.com)
 * [McKenna McKee](//mckenna.bike)
-* [Mercy Corps — Tola](//toladata.mercycorps.org)
+* [Prosper Global — Tola](//toladata.prosperglobal.org)
 * [Preschool Marketplace](//preschoolmarketplace.org)
 * [Y-SCENES](//y-scenes.org)
 
